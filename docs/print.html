@@ -1,0 +1,632 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Ashenstone Lorebook</title>
+        
+        <meta name="robots" content="noindex" />
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        
+        <link rel="stylesheet" href="css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="summary.html"><strong aria-hidden="true">1.</strong> Table of Contents</a></li><li class="chapter-item expanded "><a href="world_background.html"><strong aria-hidden="true">2.</strong> World Background</a></li><li class="chapter-item expanded "><a href="campaign_2024_characters.html"><strong aria-hidden="true">3.</strong> Characters</a></li><li class="chapter-item expanded "><a href="campaign_2024_synopsis.html"><strong aria-hidden="true">4.</strong> Camapaign Synoposis to Date</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Ashenstone Lorebook</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#summary" id="summary">Summary</a></h1>
+<ul>
+<li><a href="summary.html">Table of Contents</a></li>
+<li><a href="./world_background.html">World Background</a></li>
+<li><a href="campaign_2024_characters.html">Characters</a></li>
+<li><a href="campaign_2024_synopsis.html">Camapaign Synoposis to Date</a></li>
+</ul>
+<h1><a class="header" href="#world-background" id="world-background">World Background</a></h1>
+<h2><a class="header" href="#human-dominated-regions" id="human-dominated-regions">Human-dominated Regions</a></h2>
+<h3><a class="header" href="#taynuilt" id="taynuilt">Taynuilt</a></h3>
+<p>Semi-Autonomous Kingdom (under Imperial control)</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Mix of Tayn and Imperial</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>Taynuilt (Capital)</li>
+<li>Others (unnamed)</li>
+</ul>
+<p><em>Climate / Biomes</em>:_</p>
+<ul>
+<li>Temperate</li>
+<li>Mix of deciduous forests, farmlands, hills</li>
+<li>Far southwest is dryer more grassy upland area</li>
+</ul>
+<h3><a class="header" href="#lynnla" id="lynnla">Lynnla</a></h3>
+<p>Semi-Autonomous Kingdom (under Imperial control)</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Wuldan in the far north (Bleak Coast)</li>
+<li>Mix of Tayn and Imperial.</li>
+<li>Dwarven and Old Tayn around Greenrock Mountains</li>
+<li>Halfling settlements along the Lynn River valley</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>Balnoorial (Royal Seat)</li>
+<li>Lynnmouth (Imperial Admin Capital)</li>
+<li>Fieldhaven (Small but notable farming community to the north</li>
+</ul>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Temperate (Majority), Boreal (Bleak Coast)</li>
+<li>Mix of deciduous and conifer forests, farmlands, hills</li>
+<li>Small, older mountain ranges in the east</li>
+</ul>
+<h3><a class="header" href="#negarta" id="negarta">Negarta</a></h3>
+<p>Imperial Province</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Mostly Imperial</li>
+<li>Small amounts of Tayn in rural areas.</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>Unnamed coastal cities on north and south coasts</li>
+</ul>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Temperate (Majority), Mediterranean along south coast</li>
+<li>Mix of deciduous forests, farmlands, hills.</li>
+</ul>
+<h3><a class="header" href="#denrylak" id="denrylak">Denrylak</a></h3>
+<p>Imperial Province</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Mostly Imperial</li>
+<li>Sygassan influence to the west</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>Unnamed cities on east coast</li>
+<li>Riverside trading settlements throughout</li>
+</ul>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Temperate (North), Semi-arid (South), Mediterranean (West/South)</li>
+<li>Grasslands/Savanna divided by steep lush river valleys</li>
+<li>Land rises to the west towards the mountains, becoming dryer, cooler, and steeper</li>
+</ul>
+<h3><a class="header" href="#sygassas" id="sygassas">Sygassas</a></h3>
+<p>Coalition of semi-independent City-States</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Mostly Sygassan</li>
+<li>Some dwarven and halfling settlements throughout</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>Many sizable, urbanized centers along the coast and along river corridors</li>
+</ul>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Temperate (North), Mediterranean (South)</li>
+<li>Hilly lands with fertile river valleys</li>
+<li>Steep mountains to the east</li>
+</ul>
+<h3><a class="header" href="#ekryp" id="ekryp">Ekryp</a></h3>
+<p>Imperial Province</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Imperial</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>Many urbanized centers throughout, with most on the coast of navigable rivers</li>
+</ul>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Mediterranean to Arid</li>
+<li>Steep rocky hills throughout</li>
+<li>High arid plateaus in the island center</li>
+</ul>
+<h3><a class="header" href="#indip" id="indip">Indip</a></h3>
+<p>Imperial Province</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Imperial</li>
+<li>Half-orc villages to the east</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>Drimmharbor (Imperial Admin Seat and Imperial Royal Navy Yard)</li>
+<li>Palace of the Pointed Crown</li>
+<li>Other cities throughout, significant farmland</li>
+</ul>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Temperate (Western) transitioning to dryer steppe climate (Eastern)</li>
+<li>Mix of forests, farmlands, hills</li>
+<li>East rises towards the higher grasslands</li>
+<li>Isolated mountain range in the Northeast</li>
+</ul>
+<h3><a class="header" href="#mulhong" id="mulhong">Mulhong</a></h3>
+<p>Imperial Province</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Mostly Imperial</li>
+<li>Some Tayn in western portions (Gritia Plains)</li>
+<li>Isolated half-orc settlements in the east</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>Sarreff (abondoned &amp; haunted)</li>
+<li>Northanchor (Imperial Admin Seat and base of the Northern Imperial Navy)</li>
+<li>Stonklin</li>
+</ul>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Temperate (Majority), Boreal (Bleak Coast)</li>
+<li>Mix of grasslands, forests, farmlands, hills</li>
+</ul>
+<h3><a class="header" href="#ashenstone" id="ashenstone">Ashenstone</a></h3>
+<p>Imperial Capital</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Imperial</li>
+<li>Cosmopolitan, with many enclaves of different people and cultures through the city</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>
+<p>Ashenstone
+<em>Climate / Biomes</em>:</p>
+</li>
+<li>
+<p>Mediterranean</p>
+</li>
+</ul>
+<h3><a class="header" href="#the-rock-hills" id="the-rock-hills">The Rock Hills</a></h3>
+<p>Imperial Territory with semi-independent city-states</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Imperial</li>
+<li>Minor influence from the Southern Kingdoms</li>
+<li>Semi-nomadic human, half-orc, and orc clans inland</li>
+</ul>
+<p><em>Major Citire</em>:</p>
+<ul>
+<li>A few along the coast</li>
+</ul>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Dry savanna and forest along the coast</li>
+<li>Arid rocky ridge and valleys inland</li>
+</ul>
+<h3><a class="header" href="#korren" id="korren">Korren</a></h3>
+<p>Imperial Province</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Imperial</li>
+<li>Occasional Wuldan settlements along the coast</li>
+</ul>
+<p><em>Major Citire</em>:</p>
+<ul>
+<li>A few in the south</li>
+</ul>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Temperate</li>
+<li>Forests with valley farmlands</li>
+<li>Relatively flat coastal plains rising to rocky mountain foothills</li>
+</ul>
+<h3><a class="header" href="#cardeanon" id="cardeanon">Cardeanon</a></h3>
+<p>Imperial Province (Most recent)
+<em>Culture</em>:
+Mostly Wuldan
+Imperial culture spreading inland and to the north
+<em>Major Citire</em>:
+Kraith (Imperial Admin Seat)
+<em>Climate / Biomes</em>:
+Temperate (South), Boreal (North)
+Mix of forests, gentle hills. Farmland around rivers and cities. Many lakes to the north.</p>
+<h3><a class="header" href="#wulda" id="wulda">Wulda</a></h3>
+<p>Independent Kingdom(s)</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Wuldan</li>
+<li>Scattered Hill Dwarves, Mountain Dwarves in far east</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>Highcliff</li>
+<li>Sundenvakt (Southeastern trading port)</li>
+<li>Dier-Kahn (Northern trading port)</li>
+</ul>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Boreal. Tundra/Arctic in far north/northeast</li>
+<li>Steep Mountain/Fjords (West), flatter lake-filled lands (East)</li>
+</ul>
+<h3><a class="header" href="#princepta" id="princepta">Princepta</a></h3>
+<p>Independent petty kingdoms and principalities</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Majority Princeptian</li>
+<li>Localized Wuldan settlements</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>Many medium-sized cities along the coast</li>
+</ul>
+<p><em>Climate/Biomes</em>:</p>
+<ul>
+<li>Boreal, sub-arctic (east)</li>
+<li>Thick conifer forests. Thinner and more tundra grassland to the east</li>
+<li>Relatively flat lands with many lakes and bogs</li>
+</ul>
+<h3><a class="header" href="#marrow-mires" id="marrow-mires">Marrow Mires</a></h3>
+<p>“No-man’s land”</p>
+<p><em>Culture</em>:
+The few inhabitants of the area have ties to Princepta or other older pre-imperial cultures.</p>
+<p><em>Major Cities</em>:</p>
+<p>None</p>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Temperate</li>
+<li>Mix of forests, swamps, lakes</li>
+</ul>
+<h3><a class="header" href="#crag" id="crag">Crag</a></h3>
+<p>Independent city-state.</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Wuldan</li>
+<li>Mix of many others</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>Crag</li>
+</ul>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Boreal/Arctic</li>
+</ul>
+<h3><a class="header" href="#southern-kingdoms" id="southern-kingdoms">Southern Kingdoms</a></h3>
+<p>Collection of independent kingdoms and city-states.</p>
+<p><em>Culture</em>:</p>
+<ul>
+<li>Southern</li>
+</ul>
+<p><em>Major Cities</em>:</p>
+<ul>
+<li>Many ancient cities near major trade hubs and/or water sources</li>
+</ul>
+<p><em>Climate / Biomes</em>:</p>
+<ul>
+<li>Semi-arid to arid</li>
+<li>Broad valleys separated by rocky hills and plateaus</li>
+</ul>
+<h2><a class="header" href="#dwarven-metrolises" id="dwarven-metrolises">Dwarven Metrolises</a></h2>
+<h3><a class="header" href="#city-of-mines" id="city-of-mines">City of Mines</a></h3>
+<p>Within the western portions of the Greenrock Mountains (Lynnla)
+The largest known dwarven metropolis
+Known for high quality metallurgy and stonework.
+Has a substantial number of surface settlements inhabited by dwarves, halflings, and some humans.</p>
+<h3><a class="header" href="#city-of-stone" id="city-of-stone">City of Stone</a></h3>
+<ul>
+<li>Based out of the eastern end of Wulda</li>
+<li>Relatively small city, inhabited mostly by dwarven refugees from the abandoned dwarven cities to the west</li>
+<li>Very isolationist</li>
+</ul>
+<h3><a class="header" href="#city-of-light" id="city-of-light">City of Light</a></h3>
+<ul>
+<li>In the mountains north of Sygassas.</li>
+<li>Named so for the unique fact that most of the current city is carved into the faces of mountains, allowing natural light not found in other dwarven cities.</li>
+<li>The older depths of the city are sparsely inhabited and used for utilitarian purposes like mining, manufacturing, and storage.</li>
+<li>Is the only official Mountain Dwarf city that permits entrance into the city by any approved visitors, rather than restricting access to only Mountain Dwarves.</li>
+<li>Has a long-standing mutual relationship with Sygassas.</li>
+</ul>
+<h3><a class="header" href="#city-of-tunnels" id="city-of-tunnels">City of Tunnels</a></h3>
+<ul>
+<li>In the mountains east of the city of Taynuilt.</li>
+<li>A relatively small city by dwarven standards. Have a focus on trade and production of luxury goods.</li>
+<li>Name relates to the sprawling network of tunnels that form the backbone of the city and that extend for miles in all directions. It is claimed these tunnels connect to other dwarven cities or hidden entrances in other places of importance.</li>
+<li>Very few surrounding surface settlements, instead nearby hill dwarves live among human-dominated settlements.</li>
+</ul>
+<h3><a class="header" href="#city-of-spires" id="city-of-spires">City of Spires</a></h3>
+<p>In the mountains between Korren and the Marrow Mires.</p>
+<p>This city has long controlled the mountain pass between Korren and the east, and has been able to use that to control the movement of goods and people east-west (for a fee of course).</p>
+<ul>
+<li>
+<p>Name refers to the massive stalactites that are found throughout the natural caverns that most of the city is built within.</p>
+</li>
+<li>
+<p>Known for the export of their specially cultivated strain of cave mushrooms that are a delicacy throughout the world.</p>
+</li>
+</ul>
+<p>There are numerous smaller dwarven cities throughout the lands. There are also a scattering of hill dwarf settlements on the fringes of human lands.</p>
+<p>There are many abandoned dwarven cities throughout the lands. Some have been reclaimed by others, but most are inhabited only by the ghosts of history. The reason for abandonment varies, but is never discussed due to the associated feelings of shame and failure by dwarves. Human settlements that make use of part or all of an abandoned dwarf city include:</p>
+<ul>
+<li>Ashenstone</li>
+<li>Highcliff</li>
+<li>Stonklin</li>
+<li>Palace of the Pointed Crownm</li>
+</ul>
+<h2><a class="header" href="#elven--gnome-lands" id="elven--gnome-lands">Elven / Gnome Lands</a></h2>
+<h3><a class="header" href="#alksira" id="alksira">Alk’Sira</a></h3>
+<p>The temple city and surrounding ancient forests to the north of Korren.</p>
+<h3><a class="header" href="#jezierraik" id="jezierraik">Jezier’Raik</a></h3>
+<p>The collection of minor temple cities covering the island of Jezier to the north of Taynuilt. Most of the city nodes are along the coast, with the exception of the grand moon temple at the center of the island.</p>
+<h3><a class="header" href="#kivla" id="kivla">Kiv’La</a></h3>
+<p>A small temple city built on the southern slopes of the hills in the far northeast stretches of Wulda.</p>
+<h3><a class="header" href="#alranazar" id="alranazar">Alra’nazar</a></h3>
+<p>The temple city built along the jungle and swamp delta of the Nazara River south of the Empire.</p>
+<h1><a class="header" href="#campaign-2024---characters" id="campaign-2024---characters">Campaign 2024 - Characters</a></h1>
+<h2><a class="header" href="#dungeon-master-and-voice-of-the-world" id="dungeon-master-and-voice-of-the-world">Dungeon Master and Voice of the World</a></h2>
+<p>Adam</p>
+<h2><a class="header" href="#player-characters" id="player-characters">Player Characters</a></h2>
+<p>The current campaign started in late January 2024 with five player characters.</p>
+<h3><a class="header" href="#boudiccas" id="boudiccas">Boudiccas</a></h3>
+<ul>
+<li>Controller: Charlotte</li>
+<li>Race: Dwarf</li>
+<li>Class: Fighter</li>
+<li>Alignment: ?</li>
+</ul>
+<h3><a class="header" href="#flim-flam" id="flim-flam">Flim-Flam</a></h3>
+<ul>
+<li>Controller: August</li>
+<li>Race: Elf</li>
+<li>Class: Mage</li>
+<li>Alignment: ?</li>
+</ul>
+<h3><a class="header" href="#hazar" id="hazar">Hazar</a></h3>
+<ul>
+<li>Controller: Mike</li>
+<li>Race: Human</li>
+<li>Class: Rogue</li>
+<li>Alignment: ?</li>
+</ul>
+<h3><a class="header" href="#lightsong-the-haunted" id="lightsong-the-haunted">Lightsong the Haunted</a></h3>
+<ul>
+<li>Controller: Jon</li>
+<li>Race: Tiefling</li>
+<li>Class: Bard</li>
+<li>Alignment: Chaotic Good</li>
+</ul>
+<h3><a class="header" href="#torin-thunderridge" id="torin-thunderridge">Torin Thunderridge</a></h3>
+<ul>
+<li>Controller: Matt</li>
+<li>Race: Dwarf</li>
+<li>Class: Barbarian</li>
+<li>Alignment: ?</li>
+</ul>
+<h2><a class="header" href="#non-player-characters-npcs" id="non-player-characters-npcs">Non-Player Characters (NPCs)</a></h2>
+<h3><a class="header" href="#friendly" id="friendly">Friendly</a></h3>
+<h3><a class="header" href="#hostile" id="hostile">Hostile</a></h3>
+<h1><a class="header" href="#camapaign-synoposis-to-date" id="camapaign-synoposis-to-date">Camapaign Synoposis to Date</a></h1>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+
+                
+            </nav>
+
+        </div>
+
+        
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+        
+        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+        
+        
+
+    </body>
+</html>
