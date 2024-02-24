@@ -7,7 +7,7 @@ Adam
 
 The current campaign started in late January 2024 with five player characters.
 
-### Boudiccas
+### Boudicca
 - Controller: Charlotte
 - Race: Dwarf
 - Class: Fighter
