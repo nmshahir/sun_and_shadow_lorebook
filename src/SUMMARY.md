@@ -1,15 +1,10 @@
 # Ashenstone Lorebook
 
-
-## Introduction
-
-Welcome to the Ashenstone Lorebook, a [`mdbook`](https://rust-lang.github.io/mdBook/) - based site dedicated to outlining the D&D Homebrew world of the Ashenstone Empire authored by Adam Bailey.
-
-This page serves as a starting point in navigating the rest of the Lorebook. You can also expand the Menu Button - <img src="./images/menu_button.png" alt="" width="35"/> - in the top left corner to see a sidebar version of the Table of Contents.
+Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homebrew world of the Ashenstone Empire. 
 
 ## Table of Contents
 
-[Introduction and Table of Contents](SUMMARY.md) (this page)
+[Introduction and Table of Contents](SUMMARY.md)
 
 1. [World Background](./1-0-world_background.md)
     - [Region: Indip](./1-1-region_indip.md)
@@ -18,3 +13,6 @@ This page serves as a starting point in navigating the rest of the Lorebook. You
     - [Synopsis to Date](./2-2-synopsis.md)
 
 _More to come!_
+
+> _Copyright Adam Bailey and Jon Kislin, 2024._
+> _All rights reserved. You may not adapt, share, distribute, monitize, or modify any content herein without express written permission of the authors._
