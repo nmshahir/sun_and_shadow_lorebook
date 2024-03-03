@@ -14,7 +14,7 @@
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="./images/boudicca.png" alt="FlimFlam" width="222"/> |
+| Picture      | <img src="./images/boudicca.png" alt="FlimFlam" width="275"/> |
 | Race         | Dwarf               |
 | Class        | Fighter             |
 | Alignment    | Unknown             |
@@ -24,7 +24,7 @@
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="./images/flimflam.png" alt="FlimFlam" width="222"/> |
+| Picture      | <img src="./images/flimflam.png" alt="FlimFlam" width="275"/> |
 | Race         | Wood Elf             |
 | Class        | Mage                 |
 | Alignment    | Unknown              |
@@ -34,7 +34,7 @@
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="./images/hazar.png" alt="Hazar" width="222"/> |
+| Picture      | <img src="./images/hazar.png" alt="Hazar" width="275"/> |
 | Race         | Human                |
 | Class        | Rogue                |
 | Alignment    | Unknown              |
@@ -44,8 +44,8 @@
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="./images/lightsong.png" alt="Lightsong the Haunted" width="222"/> |
-| Race         | Tiefling of Fierna  |
+| Picture      | <img src="./images/lightsong.png" alt="Lightsong the Haunted" width="275"/> |
+| Race         | Dreamcursed (Tiefling of Fierna)  |
 | Class        | Bard                |
 | Alignment    | Chaotic Good        |
 | Controller   | Jon                 |
@@ -54,7 +54,7 @@
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="./images/torin.png" alt="Lightsong the Haunted" width="222"/> |
+| Picture      | <img src="./images/torin.png" alt="Lightsong the Haunted" width="275"/> |
 | Race         | Dwarf               |
 | Class        | Barbarian           |
 | Alignment    | Unknown             |
