@@ -1,6 +1,4 @@
-# Table of Contents
-
-[Table of Contents](summary.md)  
+# Summary
 
 1. [World Background](./world_background.md)
     - [Region: Indip](./region_indip.md)

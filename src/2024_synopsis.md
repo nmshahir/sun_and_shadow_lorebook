@@ -29,3 +29,13 @@ Hazar is also upset because he wanted to question them.
 ## Day 2 - Night
 We continue the search, looking for the last crates.
 We discover the large crate (not one of the five) in the basement.
+We find the last of the five crates.
+
+A guard from outside comes, but Lightsong uses two cantrips for the party to flee.
+They go back to Thorvir's and everyone gets 200 Gold.
+
+Lord Chakri (Lightsong seems particularly interested with violence in his heart) sent the large crate to Lord Tiersen Korak (father of lord Ewyin Korak).
+
+They go to the Walrus pub. Boudicca has retired upstairs and she is not coming on the next mission.
+They ask about Lord Tiersen Korak's estate.
+
