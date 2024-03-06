@@ -1,5 +1,9 @@
 # World Background
 
+## Map
+
+![alt text](images/map_of_the_world.png)
+
 ## Human-dominated Regions
 
 ### Taynuilt
