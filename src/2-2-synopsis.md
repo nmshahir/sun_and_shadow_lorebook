@@ -77,3 +77,23 @@ Hazar is escorted by guards downstairs, but manages to trick them into letting h
 We are in front of the mouth of the cave deciding what to do next.
 
 A stocky figure runs toward the party! Who is it? It's Boudicca! Hooray!
+
+The group decides to send Thorin up the ladder into the cave, which they believe leads up to the Korak Estate, but a different section of said estate.
+A wooden hatch appears up the ladder say 40 or so feet (Lightsong loves crevasses).
+Thorin starts climbing.
+At the bottom of the ladder, there are... a lot of bones. 
+Thorin climbs back down.  
+
+GASP! A kraken! (unnamed aquatic monster)
+Fight fight fight!
+Torin Thunderridge carries the group!
+We win and harvest meat, teeth, and chitin from a tentacle the Kraken baby (it was only a baby) left behind.  
+
+Thorin starts climbing again, hears some noise above. 
+Thorin opens the trapdoor/hatch, spots storage crates, pantries, barrels, etc. in a wooden-ceilininged room and comes up, alerting the others that the coast is clear. All come up.
+
+We see a small child looking for tomatoes. He is terrified. Lightsong uses charisma to put him at ease. The group goes through the kitchen and the chef confronts them. Lightsong deceives and the chef lets them through.
+
+The box is in the third floor of the main building.
+
+
