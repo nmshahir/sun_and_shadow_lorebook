@@ -72,6 +72,8 @@ He gets into a situation where the Lord and Lady are seeing through his disguise
 
 Hazar is escorted by guards downstairs, but manages to trick them into letting him see a horse, which he steals and whom he absconds with to safety.
 
-### Afternoon - Regrouping after Hazar's Escape
+### Afternoon - Regrouping; Boudicca Returns
 
 We are in front of the mouth of the cave deciding what to do next.
+
+A stocky figure runs toward the party! Who is it? It's Boudicca! Hooray!

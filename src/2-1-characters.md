@@ -17,6 +17,7 @@
 | Picture      | <img src="./images/boudicca.png" alt="FlimFlam" width="275"/> |
 | Race         | Dwarf               |
 | Class        | Fighter             |
+| Subclass     | Eldritch Knight     |
 | Alignment    | Unknown             |
 | Controller   | Charlotte           |
 
@@ -27,6 +28,7 @@
 | Picture      | <img src="./images/flimflam.png" alt="FlimFlam" width="275"/> |
 | Race         | Wood Elf             |
 | Class        | Mage                 |
+| Subclass     | School of Evocation  |
 | Alignment    | Unknown              |
 | Controller   | August               |
 
@@ -37,6 +39,7 @@
 | Picture      | <img src="./images/hazar.png" alt="Hazar" width="275"/> |
 | Race         | Human                |
 | Class        | Rogue                |
+| Subclass     | Assassin             |
 | Alignment    | Unknown              |
 | Controller   | Mike                 |
 
@@ -47,6 +50,7 @@
 | Picture      | <img src="./images/lightsong.png" alt="Lightsong the Haunted" width="275"/> |
 | Race         | Dreamcursed (Tiefling of Fierna)  |
 | Class        | Bard                |
+| Subclass     | College of Whispers |
 | Alignment    | Chaotic Good        |
 | Controller   | Jon                 |
 
@@ -57,6 +61,7 @@
 | Picture      | <img src="./images/torin.png" alt="Lightsong the Haunted" width="275"/> |
 | Race         | Dwarf               |
 | Class        | Barbarian           |
+| Subclass     | Totem Warrior       |
 | Alignment    | Unknown             |
 | Controller   | Matt                |
 
@@ -65,13 +70,18 @@
 ## Non-Player Characters (NPCs)
 
 ### Friendly
-- That Bartender
-- That Bouncer
-- The Wizard Lady in the Tower
-- The Merchant
+- That Bartender (Day 1)
+- That Half-orc Bouncer (Day 1)
+- The Wizard Lady in the Tower (Day 2)
+- Thorvir (Day 2)
+- Thorvir's gnome attendant. (Day 2)
+- Lighthammer the Smith (Day 3)
 
 ### Hostile
-- Lordling
-- Lordling's goons
-- Warehouse manager
-- Warehouse lackeys
+- Lordling - Ewyin Korak (Day 1)
+- Lordling's goons (Day 1)
+- Warehouse manager (Day 2)
+- Warehouse lackeys (Day 2)
+
+### Unknown
+- Lord Tiersen Korak and his wife? (Day 3)
