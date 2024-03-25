@@ -72,7 +72,7 @@ He gets into a situation where the Lord and Lady are seeing through his disguise
 
 Hazar is escorted by guards downstairs, but manages to trick them into letting him see a horse, which he steals and whom he absconds with to safety.
 
-### Afternoon - Regrouping; Boudicca Returns
+### Early Afternoon - Regrouping; Boudicca Returns; the Kraken
 
 We are in front of the mouth of the cave deciding what to do next.
 
@@ -89,11 +89,30 @@ Fight fight fight!
 Torin Thunderridge carries the group!
 We win and harvest meat, teeth, and chitin from a tentacle the Kraken baby (it was only a baby) left behind.  
 
+### Late Afternoon - the Korak Estate, again!
 Thorin starts climbing again, hears some noise above. 
 Thorin opens the trapdoor/hatch, spots storage crates, pantries, barrels, etc. in a wooden-ceilininged room and comes up, alerting the others that the coast is clear. All come up.
 
 We see a small child looking for tomatoes. He is terrified. Lightsong uses charisma to put him at ease. The group goes through the kitchen and the chef confronts them. Lightsong deceives and the chef lets them through.
 
-The box is in the third floor of the main building.
+The box is in the third floor of the main building, where Hazar was last.
+
+We get past the old ladies. Lightsong uses Words of Terror on the guard guarding the main halls. We sneak into the last bedroom on the left, then lock the door behind us. We decide to rest until it is time.
+
+__Short Rest__
+
+### Evening - approaching the room with the Double Doors
+
+The group goes to the double doors on the third floor, it shocks Torin, we get in, turn on 1/4 of the lights. Lord Tiersen Korak, Lady Luisa Korak, and Guard Captain Loric.
+
+
+#### __BOSS FIGHT__
+
+We kill the guard captain.
+We get Lord Tiersen Korak and Lady Luisa Korak to surrender before killing them. 
+
+
+
+
 
 
