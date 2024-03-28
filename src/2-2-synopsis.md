@@ -117,7 +117,12 @@ We knock them out.
 We take the mirror and crate, we walk through the pastures, get into the city, back to Thorvir's.
 
 ### Late Night - Back to Thorvir's
-We get the crate in.
+We get the crate in. Thorvir asks us what went down. We tell him. 
+We didn't get the pass code, we didn't deliver the letter. Oops. 
+It was a threatening letter.
+
+__LONG REST__  
+END OF DAY 3.
 
 
 
