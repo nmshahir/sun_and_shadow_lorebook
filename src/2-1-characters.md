@@ -72,16 +72,17 @@
 ### Friendly
 - That Bartender (Day 1)
 - That Half-orc Bouncer (Day 1)
-- The Wizard Lady in the Tower (Day 2)
+- The Wizard Lady in the Tower (Day 3)
 - Thorvir (Day 2)
-- Thorvir's gnome attendant. (Day 2)
+- Thorvir's gnome attendant (Day 2)
 - Lighthammer the Smith (Day 3)
 
-### Hostile
-- Lordling - Ewyin Korak (Day 1)
-- Lordling's goons (Day 1)
-- Warehouse manager (Day 2)
-- Warehouse lackeys (Day 2)
 
-### Unknown
-- Lord Tiersen Korak and his wife? (Day 3)
+### Hostile
+- Lordling - Ewyin Korak (Day 1) (Incapacitated as of Day 3)
+- Lordling's goons (Day 1)
+- Warehouse manager (Day 2) (Deceased)
+- Warehouse lackeys (Day 2) (Deceased)
+- Loric Swin, Guard Captain of the Korak Estate (Deceased)
+- Lord Tiersen Korak (Day 3) (Incapacitated as of Day 3)
+- Lady Luisa Korak (Day 3) (Incapacitated as of Day 3)

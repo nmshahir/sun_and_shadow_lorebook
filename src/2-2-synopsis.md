@@ -111,6 +111,15 @@ The group goes to the double doors on the third floor, it shocks Torin, we get i
 We kill the guard captain.
 We get Lord Tiersen Korak and Lady Luisa Korak to surrender before killing them. 
 
+#### The escape in the storm at dark
+Take cloak and cover the seeing mirror. We gag and search.
+We knock them out.
+We take the mirror and crate, we walk through the pastures, get into the city, back to Thorvir's.
+
+### Late Night - Back to Thorvir's
+We get the crate in.
+
+
 
 
 
