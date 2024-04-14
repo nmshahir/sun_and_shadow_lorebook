@@ -19,7 +19,7 @@ _Major Cities_:
 - Taynuilt (Capital)
 - Others (unnamed)
 
-_Climate / Biomes_:_
+_Climate / Biomes_:
 
 - Temperate
 - Mix of deciduous forests, farmlands, hills
@@ -201,12 +201,15 @@ _Climate / Biomes_:
 ### Cardeanon
 
 Imperial Province (Most recent)
-_Culture_:
-Mostly Wuldan
+
+_Culture_:  
+Mostly Wuldan. 
 Imperial culture spreading inland and to the north
-_Major Citire_:
+
+_Major Citire_:  
 Kraith (Imperial Admin Seat)
-_Climate / Biomes_:
+
+_Climate / Biomes_:  
 Temperate (South), Boreal (North)
 Mix of forests, gentle hills. Farmland around rivers and cities. Many lakes to the north.
 
@@ -251,12 +254,10 @@ _Climate/Biomes_:
 
 “No-man’s land”
 
-_Culture_:
+_Culture_:  
 The few inhabitants of the area have ties to Princepta or other older pre-imperial cultures.
 
-_Major Cities_:
-
-None
+_Major Cities_: None
 
 _Climate / Biomes_:
 

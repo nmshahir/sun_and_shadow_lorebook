@@ -72,7 +72,7 @@
 ### Friendly
 - That Bartender (Day 1)
 - That Half-orc Bouncer (Day 1)
-- The Wizard Lady in the Tower (Day 3)
+- Delira, The Wizard Lady in the Tower (Day 3)
 - Thorvir (Day 2)
 - Thorvir's gnome attendant (Day 2)
 - Lighthammer the Smith (Day 3)
@@ -85,4 +85,4 @@
 - Warehouse lackeys (Day 2) (Deceased)
 - Loric Swin, Guard Captain of the Korak Estate (Deceased)
 - Lord Tiersen Korak (Day 3) (Incapacitated as of Day 3)
-- Lady Luisa Korak (Day 3) (Incapacitated as of Day 3)
+- Lady Louissa Korak (Day 3) (Incapacitated as of Day 3)
