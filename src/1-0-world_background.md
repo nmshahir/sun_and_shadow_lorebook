@@ -123,9 +123,14 @@ _Climate / Biomes_:
 - High arid plateaus in the island center
 
 ### Indip 
+
+<img src="./images/indip.png" alt="indip" width="475"/>
+
 {{#include ./stubs/indip_background_stub.md}}
 
 ### Mulhong
+
+<img src="./images/mulhong.png" alt="mulhong" width="475"/>
 
 Imperial Province
 
