@@ -6,6 +6,7 @@
 1. [World Background](./1-0-world_background.md)
     - [Cultures](./1-1-world_cultures.md)
     - [Region: Indip](./1-2-region_indip.md)
+    - [City: Crag](./1-3-city_crag.md)
 2. [Campaign 2024](./2-0-campaign_2024.md)
     - [Characters](./2-1-characters.md)
     - [Synopsis to Date](./2-2-synopsis.md)
