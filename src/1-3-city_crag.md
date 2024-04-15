@@ -1,10 +1,11 @@
 # City: Crag
 
+![alt text](images/crag_ai_art.png)
 
 ## Summary
 | | |
 |----------------:|:--------------------|
-| Map of Crag     |<img src="./images/Crag.png" alt="Map of Crag in 442 K.E." width="400"/> |
+| Map of Crag     |<img src="./images/crag_map.png" alt="Map of Crag in 442 K.E." width="400"/> |
 | Region          | Grey Sea            |
 | Nation          | Independent         |
 | Main Culture    | Wuldan              |

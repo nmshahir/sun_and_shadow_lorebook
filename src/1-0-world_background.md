@@ -124,7 +124,7 @@ _Climate / Biomes_:
 
 ### Indip 
 
-<img src="./images/indip.png" alt="indip" width="475"/>
+<img src="./images/indip_map.png" alt="indip" width="475"/>
 
 {{#include ./stubs/indip_background_stub.md}}
 
@@ -271,20 +271,9 @@ _Climate / Biomes_:
 
 ### Crag
 
-Independent city-state.
+<img src="./images/crag_ai_art.png" alt="crag" width="475"/>
 
-_Culture_:
-
-- Wuldan
-- Mix of many others
-
-_Major Cities_:
-
-- Crag
-
-_Climate / Biomes_:
-
-- Boreal/Arctic
+{{#include ./stubs/crag_background_stub.md}}
 
 ### Southern Kingdoms
 
