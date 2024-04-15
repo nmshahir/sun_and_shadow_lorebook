@@ -1,8 +1,12 @@
 # City: Crag
 
-![alt text](images/crag_ai_art.png)
+<!-- HTML goes here -->
+<style>
+  table {margin-left: 0 !important;}
+</style>
 
-## Summary
+<!-- end HTML -->
+
 | | |
 |----------------:|:--------------------|
 | Map of Crag     |<img src="./images/crag_map.png" alt="Map of Crag in 442 K.E." width="400"/> |
@@ -16,7 +20,10 @@
 |                 | 12,000 - 600 K.E.   |
 | Ruler           | Merchant Council    |
 | Main Industries | Mercantile Trade,   |
-|                 | Seafood, Oil, Wool  |
+|                 | Seafood, Oil, Wool  |  
+
+## Scene
+<img src="images/crag_ai_art.png" alt="Map of Crag in 442 K.E." width="700"/>
 
 ## Early History of Crag  
 
@@ -35,4 +42,6 @@ Lord Tyrson Corrack
 Lady Louissa Corrack
 
 Lord-heir Eywin Corrack
+
+Lighthammer the Dwarven Smith
 
