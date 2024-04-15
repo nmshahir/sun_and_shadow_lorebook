@@ -9,7 +9,6 @@
 
 | | |
 |----------------:|:--------------------|
-| Map of Crag     |<img src="./images/crag_map.png" alt="Map of Crag in 442 K.E." width="400"/> |
 | Region          | Grey Sea            |
 | Nation          | Independent         |
 | Main Culture    | Wuldan              |
@@ -22,8 +21,16 @@
 | Main Industries | Mercantile Trade,   |
 |                 | Seafood, Oil, Wool  |  
 
-## Scene
-<img src="images/crag_ai_art.png" alt="Map of Crag in 442 K.E." width="700"/>
+<br>
+
+<img src="images/crag_ai_art.png" alt="View of Crag in 442 K.E." width="800"/>
+  
+<i> A view of Seaside, the harbor and associated neighborhood on Crag's east flank </i>
+
+## Map
+
+<img src="./images/crag_map.png" alt="Map of Crag in 442 K.E." width="900"/> 
+
 
 ## Early History of Crag  
 
