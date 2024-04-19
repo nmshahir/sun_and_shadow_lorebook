@@ -3,7 +3,7 @@
 ## Day 1  
 
 Five [characters](./campaign_2024_characters.md) meet in a pub in Crag.  
-They encounter a fiesty lordling, Ewen. 
+They encounter a fiesty lordling, Ewyin. 
 He harrasses the kindly owner.  
 The character fight off the lordling and his goons with the help of the half-orc bouncer.  
 Lordling wanted his way with owner's daughter.  
