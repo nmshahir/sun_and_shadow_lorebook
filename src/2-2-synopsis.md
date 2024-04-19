@@ -1,4 +1,4 @@
-# Synoposis to Date
+# Synopsis to Date
 
 ## Day 1  
 
