@@ -124,6 +124,23 @@ It was a threatening letter.
 __LONG REST__  
 END OF DAY 3.
 
+## Day 4 
+
+### Day
+
+1. We sold our kraken meat.
+2. We sold some booze.
+3. We bought some booze.
+4. Lightsong wrote a letter to lady Louissa entreating her to Parlay.
+5. Lady Louissa Corrack came over but was really mistrusting.
+6. We got the big crate open with the help of Lady Corrack.
+7. Lady Louissa Corrack's sister was in the crate! Also an ornate chest.
+8. Tierson and Ewyin knocked down the door and that's where we find ourselves.
+
+### Twilight
+
+The corracks attack!
+
 
 
 
