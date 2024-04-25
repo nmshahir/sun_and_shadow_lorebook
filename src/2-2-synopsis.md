@@ -159,10 +159,13 @@ END OF DAY 3.
 
 ### After the bomb, night-time
 
-- We come back to consciousness.
+- We come back to consciousness, in the mires outside of Crag.
 - Torin and Boudicca feel alright, but Flim Flam, Hazar, and Lightsong feel like they've come back from the dead.
 - We are not in the city.
-- The Darkvisioners see Shaheela on the log. 
+- The Darkvisioners see Shaheela on the log.
+- Crag plaza was levelled, Thorvir is dead, by a beam in his own house.
+- Chakri we learn is also interim governor of Lynnla. Shaheela spits on the ground.
+- We discuss what to do next.
 
 
 
