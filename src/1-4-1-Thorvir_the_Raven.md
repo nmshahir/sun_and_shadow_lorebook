@@ -8,9 +8,12 @@
 | Profession   | Merchant, Councilman  |
 | Home         | Crag                  |
 | Born         | 390 K.E.              |
-| Death        | N/A                   |
+| Death        | 443 K.E.              |
 
 ## Early Life
 
-## Career
+## Career   
 
+## Death  
+
+Dead by the Beast Chakri.
