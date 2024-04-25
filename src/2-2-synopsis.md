@@ -134,12 +134,35 @@ END OF DAY 3.
 4. Lightsong wrote a letter to lady Louissa entreating her to Parlay.
 5. Lady Louissa Corrack came over but was really mistrusting.
 6. We got the big crate open with the help of Lady Corrack.
-7. Lady Louissa Corrack's sister was in the crate! Also an ornate chest.
+7. Lady Louissa Corrack's sister (Shaheela) was in the crate! Also an ornate chest.
 8. Tierson and Ewyin knocked down the door and that's where we find ourselves.
 
-### Twilight
+### Twilight/Evening
 
-The corracks attack!
+- The Corracks attack! We defuse it. The battle disengages.
+- The infamous Dread Queen Shaheela, believed to be executed and burned at the stake at the royal palace of Lynnla in Balnourial, one year ago, by Lord Chakri.
+    - Second wife and mother of the King Helman's Third Son.
+    - Many claimed she was a necromancer. King Helman was assumed dead after a tournament but mysteriously came back and Shaheela took more control.
+    - The first two children died mysteriously, Renni mayhaps will take the throne? Conspiracy???
+    - Shahella was notorious figure in Lynnla.
+    - Her misrule is credited for the invasion of the Empire.
+- Chakri was listening to us the whole time!!! The bastard!
+- Bomb's gonna go off. Fuckin Chakri. We got barricaded. Tiersen's guards try to break the barricade.
+- Shaheela blinds Hazar, Flim Flam, and Boudicca...
+- Lightsong persuades Shaheela and Louissa to focus on the defusing the bomb!
+- Hazar asks for the blindness to be removed.
+- Hazar, Shaheela, Louissa, Flim Flam check the box to see if they can defuse it.
+- Torin and Boudicca throw the bomb out the window.
+- The bomb lands among Chakri's goons.
+- We all huddle in the corner; Hazar scoops up treasure and makes failed passes at the Dread Queen.
+- The bomb goes off and Lightsong, Hazar, and Flim Flam go into a dark purgatory; apparently the building fell on us.
+
+### After the bomb, night-time
+
+- We come back to consciousness.
+- Torin and Boudicca feel alright, but Flim Flam, Hazar, and Lightsong feel like they've come back from the dead.
+- We are not in the city.
+- The Darkvisioners see Shaheela on the log. 
 
 
 
