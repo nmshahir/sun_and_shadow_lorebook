@@ -22,11 +22,13 @@ Indip is one of the oldest Imperial provinces. Interestingly, Indip as a whole i
 The name "Indip" is a shortened Kaldrinic variant of the pre-imperial outpost _Lz Ïndip'ey Ah_ (_Lz_ - "beside" _Ïndip_ - "deep water" _'ey_ - first person plural possessive modifier, _Ah_ - "clear or light"), in the Centre-Coastal Half-Orc dialect. Now long ruled by the Empire, the former "Lz Ïndip'ey Ah" is now the site of the Drimmharbor Quays, a vast system of naval drydocks and manufactories under strict Martial Law. (The water is no longer clear).
 
 ### Districts of Indip
-The empire divides Indip into three coastal districts and one "extension":
-1. The Mulmarch (farmland to the north of Drimmharbor, up to the border of Mulhong)
-2. Drimmharbor District (central coast)
-3. Iveénland (farmlands and wetlands on the southern Indipian coast, named for the Iveéndip River)
-4. Indip Extension (the vast interior of Indip, "extending" to the Gold Desert)
+The empire divides Indip into three coastal districts and the unorganized "East Indip Expanse":
+1. _The Mulmarch_. Agricultural region north of Drimmharbor, extending up to the border of Mulhong. The original homeland of the Human nomads who eventually coalesced and formed the Old Indip Empire. _Indïdip_ ("Over-Indip"), the historic capital of the Old Indipian Empire is located here, on the south shore of Lake Mulloch. Briefly the population center of the region after the formation of the Old Indip Empire, this area depopulated quickly after the establishment of Drimmharbor. Now economically depressed, though home to some interesting architecture and a cultural center of traditional Indipian crafts. Considered a pass-through region by most Imperials.
+2. Drimmharbor District (central coast). Officially the modern capital district of Indip, though many forget it is not an Imperial province in itself. Home to roughly 80% of the total population of Indip, and virtually all of the Human population.
+3. Ivëénland (farmlands and wetlands on the southern Indipian coast, named for the Iveéndip River). Historically important to the Old Indip Empire as a buttress against the Orcs of the Rock Hills, it is now rural in character, though far more accesible than the East Indip Expanse.
+4. East Indip Expanse (the vast interior of Indip, "expanding" to the Gold Desert). Civilian law does not apply here, and historically the Empire's touch has been very light.
+
+Additionally, within the borders of Indip is __The Palace of the Pointed Crown__, an ancient sovereign enclave surrounded by Indipian lands. It is included here for convenience, but it is not legally or geopolitically part of Indip (similar to the Vatican City within Rome).
 
 #### Drimmharbor District
 ![image](https://github.com/jonkislin/ashenstone_lorebook/assets/26395601/d60b97f5-d6ac-4ba7-af70-38ff5bc22e01)
@@ -37,13 +39,13 @@ The empire divides Indip into three coastal districts and one "extension":
 - __Cape Drimm__ - a small but popular destination for relaxation and hobby fishing. Fresh seafood caught daily by human and half-orc fishermen. Despite existing road and land access, most visit by boat to avoid the activity and checkpoints around the Quays. Private sea-side roads lead directly here from __Inpoint__.
 - __Ashwatch Point__ - a small but elegant town across the Great Indip Sound from Drimmharbor. Site of the Ashwatch Lighthouse, pride of the Lighthouser's Guild. The Ashwatch Lighthouse houses an observatory from which the Lighthousers claim they can view both the stars and the towers of Ashenstone across the Jewel Waters.
 
-#### Palace of the Pointed Crown
+#### Palace of the Pointed Crown (Independent)
 _WIP_
 
 #### Iveénland
 _WIP_
 
-#### Indip Extension
+#### Indip Expanse
 _WIP_
 
 ### A brief history of Indip
