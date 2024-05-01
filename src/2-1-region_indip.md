@@ -30,9 +30,9 @@ Ashenstone's Imperial Land Ministry divides Indip into three coastal "districts"
 1. __The Mulmarch__. Agricultural region north of Drimmharbor, extending up to the border of Mulhong. The original homeland of the Human nomads who eventually coalesced and formed the Old Indip Empire. _Indïdip_ ("Over-Indip"), the historic capital of the Old Indipian Empire is located here, on the south shore of Lake Mulloch. Briefly the population center of the region after the formation of the Old Indip Empire, this area depopulated quickly after the establishment of Drimmharbor. Now economically depressed, though home to some interesting architecture and a cultural center of traditional Indipian crafts. Considered a pass-through region by most Imperials.
 2. __Drimmharbor District__. Officially the modern capital district of Indip, though many forget it is not an Imperial province in itself. Home to roughly 80% of the total population of Indip, and virtually all of the Human population.
 3. __Ivëénland__ (farmlands and wetlands on the southern Indipian coast, named for the Iveéndip River). Historically important to the Old Indip Empire as a buttress against the Orcs of the Rock Hills, it is now rural in character, though far more accesible than the East Indip Expanse.
-4. __East Indip Expanse__. The vast interior of Isndip, "expanding" to the Gold Desert). Civilian law does not apply here, and historically the Empire's touch has been very light.
+4. __The Indip Expanse__. The vast interior of Isndip, "expanding" to the Gold Desert. Civilian law does not apply here, mostly because there's no one to enforce it. Historically, both Old Indip and Ashenstone's touch here has been very light.
 
-Additionally, within the borders of Indip is __The Palace of the Pointed Crown__, an ancient sovereign enclave surrounded by Indipian lands. It is included here for convenience, but it is not legally or geopolitically part of Indip (similar to the Vatican City within Rome).
+Within the borders of Indip is __The Palace of the Pointed Crown__, an ancient semi-sovereign religious enclave surrounded by Indipian lands. It is included here for convenience, but it is not adminstratively considered part of Indip by the Land Ministry.
 
 ### 1. The Mulmarch 
 
