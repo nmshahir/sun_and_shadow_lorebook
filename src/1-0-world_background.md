@@ -1,10 +1,102 @@
 # World Background
 
-## Map
+## Map of the World
 
 ![alt text](images/map_of_the_world.png)
 
-## Human-dominated Regions
+## Human-Dominated Lands: Summary
+
+### The Ashenstene Empire
+The lands of the North are dominated by Ashenstone Empire, also called the Kaldrinic Dynasty to distinguish it from previous empires in the broader world. Also simply called __"The Empire,"__ it includes the Imperial City of Ashenstone and Nine Provinces:
+
+1. __Ashenstone City__ 👑
+2. __Ekryp__
+3. __Indip__ 
+4. __Taynuilt__
+5. __Mulhong__
+6. __Denrylak__
+7. __Negarta__
+8. __Korren__
+9. __Cardeanon__
+10. __Lynnla__ (Newest, seized 436 KE by High Lord Chakri, a scion of Ashestone)
+
+### Independent Lands
+1. __Wulda__
+2. __Sygassas__
+3. __Princepta__
+3. __The Southern Kingdoms__
+
+### No-Man's Lands
+1. __The Marrow Mires__
+2. __The Untamed Steppes__
+3. __The Gold Desert__
+
+## Human-Dominated Lands: Details
+
+### Ashenstone
+
+Imperial Capital
+
+_Culture_:
+
+- Imperial
+- Cosmopolitan, with many enclaves of different people and cultures through the city
+
+_Major Cities_:
+
+- Ashenstone
+
+_Climate / Biomes_:
+
+- Mediterranean
+
+### Ekryp
+
+Imperial Province
+
+_Culture_:
+
+- Imperial
+
+_Major Cities_:
+
+- Many urbanized centers throughout, with most on the coast of navigable rivers
+
+_Climate / Biomes_:
+
+- Mediterranean to Arid
+- Steep rocky hills throughout
+- High arid plateaus in the island center
+
+### Indip 
+
+<img src="./images/indip_map.png" alt="indip" width="475"/>
+
+{{#include ./stubs/indip_background_stub.md}}
+
+### Mulhong
+
+<img src="./images/mulhong.png" alt="mulhong" width="475"/>
+
+Imperial Province
+
+_Culture_:
+
+- Mostly Imperial
+- Some Tayn in western portions (Gritia Plains)
+- Isolated half-orc settlements in the east
+
+_Major Cities_:
+
+- Sarreff (abondoned & haunted)
+- Northanchor (Imperial Admin Seat and base of the Northern Imperial Navy)
+- Stonklin
+
+_Climate / Biomes_:
+
+- Temperate (Majority), Boreal (Bleak Coast)
+- Mix of grasslands, forests, farmlands, hills
+
 
 ### Taynuilt
 
@@ -103,69 +195,6 @@ _Climate / Biomes_:
 - Temperate (North), Mediterranean (South)
 - Hilly lands with fertile river valleys
 - Steep mountains to the east
-
-### Ekryp
-
-Imperial Province
-
-_Culture_:
-
-- Imperial
-
-_Major Cities_:
-
-- Many urbanized centers throughout, with most on the coast of navigable rivers
-
-_Climate / Biomes_:
-
-- Mediterranean to Arid
-- Steep rocky hills throughout
-- High arid plateaus in the island center
-
-### Indip 
-
-<img src="./images/indip_map.png" alt="indip" width="475"/>
-
-{{#include ./stubs/indip_background_stub.md}}
-
-### Mulhong
-
-<img src="./images/mulhong.png" alt="mulhong" width="475"/>
-
-Imperial Province
-
-_Culture_:
-
-- Mostly Imperial
-- Some Tayn in western portions (Gritia Plains)
-- Isolated half-orc settlements in the east
-
-_Major Cities_:
-
-- Sarreff (abondoned & haunted)
-- Northanchor (Imperial Admin Seat and base of the Northern Imperial Navy)
-- Stonklin
-
-_Climate / Biomes_:
-
-- Temperate (Majority), Boreal (Bleak Coast)
-- Mix of grasslands, forests, farmlands, hills
-
-### Ashenstone
-
-Imperial Capital
-
-_Culture_:
-
-- Imperial
-- Cosmopolitan, with many enclaves of different people and cultures through the city
-
-_Major Cities_:
-
-- Ashenstone
-_Climate / Biomes_:
-
-- Mediterranean
 
 ### The Rock Hills
 
@@ -292,7 +321,7 @@ _Climate / Biomes_:
 - Semi-arid to arid
 - Broad valleys separated by rocky hills and plateaus
 
-## Dwarven Metrolises
+## Dwarven Metropolises
 
 ### City of Mines  
 
