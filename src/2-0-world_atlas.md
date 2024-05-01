@@ -2,7 +2,7 @@
 
 ## Map of the World
 
-![alt text](images/map_of_the_world.png)
+![alt text](images/maps/map_of_the_world_lower_res.jpg)
 
 ## Human-Dominated Lands: Summary
 

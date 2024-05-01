@@ -2,30 +2,43 @@
 
 <!-- HTML goes here -->
 <style>
-  table {margin-left: 0 !important;}
+  /* table {margin-left: 0 !important;} */
 </style>
 
 <!-- end HTML -->
 
-| | |
-|----------------:|:--------------------|
-| Region          | Grey Sea            |
-| Nation          | Independent         |
-| Main Culture    | Wuldan              |
-| Minor Cultures  | Taynnish, Kaldrinic |
-| Population      | 1,000 - 0 K.E.      |
-|                 | 5,000 - 100 K.E.    |
-|                 | 10,000 - 450 K.E.   |
-|                 | 12,000 - 600 K.E.   |
-| Ruler           | Merchant Council    |
-| Main Industries | Mercantile Trade,   |
-|                 | Seafood, Oil, Wool  |  
-
-<br>
-
-<img src="images/crag_ai_art.png" alt="View of Crag in 442 K.E." width="800"/>
+<table>
+<th style="text-align:center"> Landscape</th>
+<th style="text-align:center"> Fact Sheet </th>
+<tr>
   
-<i> A view of Seaside, the harbor and associated neighborhood on Crag's east flank </i>
+  <td>
+    <img src="images/landscapes/crag_ai_art.png" alt="View of Crag in 442 K.E." width="500"/>
+    <br>
+    <i> A view of Seaside, the harbor and associated neighborhood on Crag's east flank </i>
+  </td>
+
+  <td style="text-align:center">
+
+  <b>The Independent City of Crag</b>
+
+  |                 |                     |
+  |----------------:|:--------------------|
+  | Region          | Grey Sea            |
+  | Nation          | Independent         |
+  | Main Culture    | Wuldan              |
+  | Minor Cultures  | Taynnish, Kaldrinic |
+  | Population      | 1,000 - 0 K.E.      |
+  |                 | 5,000 - 100 K.E.    |
+  |                 | 10,000 - 450 K.E.   |
+  |                 | 12,000 - 600 K.E.   |
+  | Ruler           | Merchant Council    |
+  | Main Industries | Mercantile Trade,   |
+  |                 | Seafood, Oil, Wool  |  
+
+  </td>
+</tr>
+</table>
 
 ## Map
 

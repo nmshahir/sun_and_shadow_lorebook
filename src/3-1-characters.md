@@ -22,7 +22,8 @@
 | Homeland     | City of Stones      |
 | Controller   | Charlotte           |
 
-</td><td>
+</td>
+<td>
 
 ### Flim-Flam
 
@@ -36,7 +37,7 @@
 | Homeland     | Unknown              |
 | Controller   | August               |
 
-</td><tr> </table>
+</td></tr> </table>
 
 <table>
 <tr><td>
@@ -67,7 +68,7 @@
 | Homeland     | Ashenstone City     |
 | Controller   | Jon                 |
 
-</td><tr> </table>
+</td></tr> </table>
 
 ### Torin Thunderridge
 
