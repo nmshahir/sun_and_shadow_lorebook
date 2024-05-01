@@ -61,9 +61,11 @@ Inveenland, also called Invëye, was a critical region to Old Indip, despite its
 
 It's hard to overstate the threat that Old Indip felt from the Orcs of the Rock Hills. If Half-orcs were holy to the humans of Old Indip, Orcs were the very opposite, considered accursed. To be fair to the Old Indipians, The Orcs of the Rock Hills waged centuries of apparently unprovoked war against both the semi-nomadic Half-orcs and the Humans who considered them their sacred ward. To this effect, Old Indip constructed one of the great wonders of the pre-Kaldrinic world: __The Watergates__, four leviathan floating fortresses imbued with long forgotten magics. Combined with the large __Southfort__ and the __Great Trenches__ (Eastrench and Westrench), the very geography of South Invëénland was fortified against threats from the Rock Hills and beyond, whether by land or by sea.
 
-### Indip Expanse
+### The Indip Expanse
 
-Even today, most citizens of the Ashenstone Empire know little about the vast interior of Indip, despite its long inclusion under Imperial Dominion. It is said that Forests of immense stature unknowable age lie in gorges carved by the headwaters of the Invëéndip and Chalice Rivers. From the Palace of the Pointed Crown, technically within the Indip Expanse, no such forests are visible from the expansive southern vistas, but rumors persist.
+Even today, most citizens of the Ashenstone Empire know little about the vast interior of Indip, despite its long inclusion under Imperial Dominion. The boundaries of the Expanse are not strictly definied, but it's safe to say that virtually all lands east of Lake Mulhong running south to the Rock Hills (and even as far West as __Flaa__ and the terminus of the __Eastrench__) can be included in its general area. It is said by the Elves that Forests of immense stature and unknowable age once stood in gorges carved by the headwaters of the Invëéndip and Chalice Rivers. From the __Palace of the Pointed Crown__, technically within the Indip Expanse, no such forests are visible from the expansive southern vistas, but rumors persist that some remnants may still be found.
+
+The Indip Expanse is very rarely visited by humans, unless the __Palace of the Pointed Crown__ is included. The Empire maintains a policy of non-settlement, though in practice this only legally applies to Humans. Elves, Half-elves, and Half-orcs are said to make up the majority of the population, but no official records are kept.
 
 _WIP_
 
