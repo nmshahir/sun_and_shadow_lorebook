@@ -1,4 +1,14 @@
-# World Background
+
+# World Atlas
+
+<!-- HTML goes here -->
+<style>
+  table {margin-left: 0 !important;}
+</style>
+
+<!-- end HTML -->
+
+This page is a directory to all major regions in the Northern World! You'll find info, maps, landscape views, and facts. 
 
 ## Map of the World
 
@@ -298,9 +308,11 @@ _Climate / Biomes_:
 - Temperate
 - Mix of forests, swamps, lakes
 
-### Crag
+### [Crag](./2-2-city_crag.md)
+_Click link to see main article_
 
 <img src="./images/landscapes/crag_ai_art.png" alt="crag" width="475"/>
+
 
 {{#include ./stubs/crag_background_stub.md}}
 
