@@ -26,6 +26,8 @@ _Please note: our scribes continue to research this era. Details may be added, u
 | -332 | The second Taynish Confederacy forms to defend against the Indipian Regime of Tan La Fon V | |
 | -326 | The Indip Regime divides between north and south due to internal power struggles, the Taynish Confederacy successfully defeat the Indipians, essentially ending the war | |
 | -324 | With the collapse of the Indipian power structure, the Second Taynish Confederacy disbands according to the initial treaty. | |
+| -205 | Great unchecked fires burn-out the Hall of the Chieftans and much of Indïdip. The North Indip Empire falls unceremoniously. | 
+| -204 | Founding of Izÿ on Lake Mulhong by refugees from Indïdip. | |
 
 ## The Kaldrinic Dynasty
 
@@ -35,9 +37,9 @@ _Note: Record keeping vastly improved after the establishment of the Kaldrinic D
 | Year    | Event   |
 |--------:|:--------|
 | 0 | The Kaldrinic Empire Establishes Ashenstone as the new Imperial Seat |
-| 4 | Ekrypt Falls under Kaldrinic control |
+| 4 | Ekryp Falls under Kaldrinic control |
 | 6 | Drimmharbor is founded |
-| 7 | Indipian Empire falls to Imperial Control |
+| 7 | South Indipian Empire falls to Imperial Control |
 | 35 | Imperial Provincial system is established, replacing previous system of martially occupied nations |
 | 44 | Denisians begin sending out explorers north to find new homeland |
 | 47 | Denisians begin formal migration to what is now Sygassas |

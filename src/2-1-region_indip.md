@@ -2,33 +2,44 @@
 
 ![](images/maps/indip_map.png)
 
-Very much a work in progress. Please don't mind the horrible run on sentences and conflicting information. I'm working on it iteratively :).
 
 ## Quick facts
 {{#include ./stubs/indip_background_stub.md}}
 
 ## Summary
-Indip is one of the oldest Imperial provinces, containing most of the former Old Indipian Empire. Interestingly, Indip as a whole is now often thought of as a backwater, despite its more central location geographically and Old Indip's historical superlative wealth and might. The current capital of Indip, __Drimmharbor__, is home to the Imperial Navy Fleet. 
+Indip is one of the oldest Imperial provinces, containing most of the former Old Indipian Empire (_Ley-Indip-Ley_). Interestingly, Indip as a whole is now often thought of as a backwater, despite its more central location geographically and Old Indip's tremendous wealth and military might. The current capital of Provincial Indip, __Drimmharbor__, is home to the Imperial Navy Fleet.
 
-Being less than a half-day's boat ride from Ashenstone, __Drimmharbor__ is as cosmopolitan as __Ashenstone__ itself. The size and wealth of Drimmharbor lead many to forget that the greater __Drimmharbor District__  is not itself a top-level province of the Empire, and most Ashenstonians never mention "Indip" by name, instead referring to the region as a whole as Drimmharbor or Drimmland.
+Being less than a day's boat ride from Ashenstone, __Drimmharbor__ is as cosmopolitan as __Ashenstone__ itself. The size and wealth of Drimmharbor lead many to forget that the greater __Drimmharbor District__  is not itself a top-level province of the Empire, and most Ashenstonians never mention "Indip" by name, instead referring to the region as a whole as Drimmharbor or Drimmland.
 
 ## Districts of Indip
 
-### Overview
-Ashenstone's Imperial Land Ministry divides Indip into three coastal "districts" and the unorganized "East Indip Expanse":
+### Overview  
+Ashenstone's Imperial Land Ministry divides Indip into three coastal "districts" and the unorganized "Indip Expanse":
 
 1. __The Mulmarch__. Agricultural region north of Drimmharbor, extending up to the border of Mulhong. The original homeland of the Human nomads who eventually coalesced and formed the Old Indip Empire. _Indïdip_ ("Over-Indip"), the historic capital of the Old Indipian Empire is located here, on the south shore of Lake Mulloch. Briefly the population center of the region after the formation of the Old Indip Empire, this area depopulated quickly after the establishment of Drimmharbor. Now economically depressed, though home to some interesting architecture and a cultural center of traditional Indipian crafts. Considered a pass-through region by most Imperials.
+
 2. __Drimmharbor District__. Officially the modern capital district of Indip, though many forget it is not an Imperial province in itself. Home to roughly 80% of the total population of Indip, and virtually all of the Human population.
-3. __Ivëénland__ (farmlands and wetlands on the southern Indipian coast, named for the Iveéndip River). Historically important to the Old Indip Empire as a buttress against the Orcs of the Rock Hills, it is now rural in character, though far more accesible than the East Indip Expanse.
+
+3. __Ivëénland__. Historically called _Invëye_ and home to the largest city of the classical pre-Kaldrinic world, _Great Invëye_ (Faï-Invëye). Mostly comprised of productive farmlands and wetlands on the southern Indipian coast. Historically important to the Old Indip Empire as a buttress against the Orcs of the Rock Hills, it is now mostly rural in character, though far more accesible than the Indip Expanse. While _Great Invëye_ as a whole is no more, active port-towns and fishing villages provide modest but decent living standards to their residents who live alongside the vast archaeological sites and ruins dotting the Bay of Invëye.
+
 4. __The Indip Expanse__. The vast interior of Isndip, "expanding" to the Gold Desert. Civilian law does not apply here, mostly because there's no one to enforce it. Historically, both Old Indip and Ashenstone's touch here has been very light.
 
 Within the borders of Indip is __The Palace of the Pointed Crown__, an ancient semi-sovereign religious enclave surrounded by Indipian lands. It is included here for convenience, but it is not adminstratively considered part of Indip by the Land Ministry.
 
-### 1. The Mulmarch 
+### 1. The Mulmarch (Mulloch-Izyal)
 
-Home to the Capital of Old Indip, Indïdip. Currently economically depressed and very sparesely populated outside of Indïdip and the other villages near Lake Mulloch.
+![mulmarch](images/maps/mulhong.png)
 
-_WIP_  
+This region, originally known as Mulloch-Izyal, is the birthplace of the Old Indipian Empire and the ancestral home of the Chieftans and Fu-Leys of Mulloch-Izyal. Home to the Capital of Old Indip, Indïdip, known as Mullochi-Izyali before the founding of the Ley-Indip-Ley.
+
+While wealthy with lush farmland and forests in the early days of the Ley-Indip-Ley, imperial attention soon turned to the Southern Region of Invëye. By -200 KD, land mismanagement and military defeat led to the gradual depopulation of the region and the collapse of the North Indipian Empire.
+
+Currently economically depressed, denuded, and very sparesely populated outside of Indïdip and the small town of Izÿ, on the border of Mulhong. The North Indip Imperial Outpost exists to collect customs and offer some amenities to travellers on their way to and from Drimmharbor.
+
+
+#### Industries
+Some small salt mines exist around lake Mulhong, near Indïdip and Izÿ. Decent firewood and small crafts timber production from the Spindlewood provide some economic activity through exports to Mulhong and Drimmharbor. A modest but growing tourism industry focusing on the history of Old Indip comprises the bulk of Indïdip's economy.
+
 
 ### 2. Drimmharbor District
 
@@ -52,9 +63,13 @@ By far the most populous and economically important of modern Indip's sub-region
 
 Invëénland, also called Invëye, was a critical region to Old Indip, despite its relative obscurity today. The oldest permanent settlements here are attributed to the Humans of Old Indip. Centered around the Bay of Invëye, Invëénland was both the economic and military center of the Middle Indipian Empire, and its regional capital, __Great Invëye__ so far outpaced the size, population, military presence, and economic output of the old capital of __Indïdip__ that it was often considered the capital despite not being declared as such until the splitting of Old Indip into North and South Indipian Empires. Despite having largely decayed by the time of the Kaldrinic Empire's rise, it is said that Ashenstone set its sites on Indip so early on during its conquests lest some other power claim the right to the glory of Old South Indip and its jewel, __Great Invëye__.
 
+As previously mentioned, __Great Invëye__ is no more, but its two historical ports of __Bayport__ and __Westport__, now themselves humble but active independent port-towns, offer glimpses of __Great Invëye__'s former splendor.
+
 ![Invëénland](images/maps/inveenland.png)
 
 It's hard to overstate the threat that Old Indip felt from the Orcs of the Rock Hills. If Half-orcs were holy to the humans of Old Indip, Orcs were the very opposite, considered accursed. To be fair to the Old Indipians, The Orcs of the Rock Hills waged centuries of apparently unprovoked war against both the semi-nomadic Half-orcs and the Humans who considered them their sacred ward. To this effect, Old Indip constructed one of the great wonders of the pre-Kaldrinic world: __The Watergates__, four leviathan floating fortresses imbued with long forgotten magics. Combined with the large __Southfort__ and the __Great Trenches__ (Eastrench and Westrench), the very geography of South Invëénland was fortified against threats from the Rock Hills and beyond, whether by land or by sea.
+
+When the Ley-Indip-Ley split into independent North and South portions, Invëye remained an important though diminished city until the ruining of The Watergates in -320 KD. Its slow collapse was complete when the last South Indipian Emperor, Trag Antal II, was defeated and beheaded by Kaldrinic forces during the razing of Great Invëye Palace in 7 KD. The city was burned and much of the population relocatd to Drimmharbor.
 
 ### The Indip Expanse
 
