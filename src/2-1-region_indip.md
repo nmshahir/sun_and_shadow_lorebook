@@ -69,7 +69,7 @@ As previously mentioned, __Great Invëye__ is no more, but its two historical po
 
 It's hard to overstate the threat that Old Indip felt from the Orcs of the Rock Hills. If Half-orcs were holy to the humans of Old Indip, Orcs were the very opposite, considered accursed. To be fair to the Old Indipians, The Orcs of the Rock Hills waged centuries of apparently unprovoked war against both the semi-nomadic Half-orcs and the Humans who considered them their sacred ward. To this effect, Old Indip constructed one of the great wonders of the pre-Kaldrinic world: __The Watergates__, four leviathan floating fortresses imbued with long forgotten magics. Combined with the large __Southfort__ and the __Great Trenches__ (Eastrench and Westrench), the very geography of South Invëénland was fortified against threats from the Rock Hills and beyond, whether by land or by sea.
 
-When the Ley-Indip-Ley split into independent North and South portions, Invëye remained an important though diminished city until the ruining of The Watergates in -320 KD. Its slow collapse was complete when the last South Indipian Emperor, Trag Antal II, was defeated and beheaded by Kaldrinic forces during the razing of Great Invëye Palace in 7 KD. The city was burned and much of the population relocatd to Drimmharbor.
+When the Ley-Indip-Ley split into independent North and South portions, Invëye remained an important though diminished city until the darkening of The Watergates in -326 KD. Its slow collapse was complete when the last South Indipian Emperor, Trag Antal II, was defeated and beheaded by Kaldrinic forces during the razing of Great Invëye Palace in 7 KD. The city was burned and much of the population relocatd to Drimmharbor.
 
 ### The Indip Expanse
 

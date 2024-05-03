@@ -18,9 +18,9 @@ _Please note: our scribes continue to research this era. Details may be added, u
 | Year  | Event | Picture  |
 |------:|:------|:---------|
 | -982 | The High Orcish Necromancer-kings L'ratomi and Z'ratomi begin The Inquistion of the Horns, triggering the great Northward migration of the Unhorned along the Western rim of the Gold Desert | |
-| -904 | Trag Çom Anatala I declares the Ley-Indip-Ley or Indipian Empire, upon the death of her father, the Fu-Ley of Mulloch-Izyali. Anatala adopts the title Fu-Indip-Ley ("First Servant of Indip's land"), which becomes the title for all Indipian Emperors and Empresses until the collapse of the Empire.  | | 
+| -904 | Trag Çom Anatala I declares the Ley-Indip-Ley or Indipian Empire, upon the death of her father, the Fu-Ley of Mulloch-Izyali. Anatala adopts the title Fu-Indip-Ley ("First Servant of Indip's land"), which becomes the title for all Indipian Emperors and Empresses until the collapse of the Empire. | | 
 | -834 | The City of Invëye is founded on the southern coast of Indip. It quickly grows to be the largest in Indip and the known world, becoming known as Great Invëye.| | 
-| -700 | The Indipian Empire constructs The Watergates to defend against the Sixth Orcish Deadfleet | ![alt text](images/landscapes/watergates.png) |
+| -700 | The Indipian Empire constructs The Watergates to defend against the Third Orcish Deadfleet | ![alt text](images/landscapes/watergates.png) |
 | -581 | With the support of many other nations the King of Taynuilt forms and heads the first Taynish Confederacy in light of enemy provocations to the east | |
 | -338 | The Incrillans are forced from their homeland and begin settling on Ekryp | | 
 | -332 | The second Taynish Confederacy forms to defend against the Indipian Regime of Tan La Fon V | |
@@ -38,9 +38,9 @@ _Note: Record keeping vastly improved after the establishment of the Kaldrinic D
 |--------:|:--------|
 | 0 | The Kaldrinic Empire Establishes Ashenstone as the new Imperial Seat |
 | 4 | Ekryp Falls under Kaldrinic control |
-| 6 | Drimmharbor is founded |
-| 7 | South Indipian Empire falls to Imperial Control |
-| 35 | Imperial Provincial system is established, replacing previous system of martially occupied nations |
+| 6 | Drimmharbor is founded; the area's native half-orcs are expelled to Drez'Dip and are banned from fishing in the Inbay in favor of Human fishermen |
+| 7 | South Indip Empire falls to the Kaldrinic Empire. Great Invëye is sacked and destroyed. The Ley-Indip-Ley is no more. |
+| 35 | The Imperial Provincial system is established, replacing previous system of martially occupied nations |
 | 44 | Denisians begin sending out explorers north to find new homeland |
 | 47 | Denisians begin formal migration to what is now Sygassas |
 | 52 | Proto-Sygassan states begin infighting as territories expand |
