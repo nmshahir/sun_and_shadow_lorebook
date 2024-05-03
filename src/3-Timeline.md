@@ -12,7 +12,7 @@ _Almost nothing is known about this era..._
 | -3700 | Fist of the Kyver (Dwarves) come out of hiding | |
 
 ## Classical Pre-Kaldrinic History
-_Please note: our scribes continue to research this era_
+_Please note: our scribes continue to research this era. Details may be added, updated, or changed._
 | Year  | Event | Picture |
 |------:|:------|:--------|
 | -912 | The High Orcish Necromancer-kings L'ratomi and Z'ratomi begin The Inquistion of the Horns, triggering the great Northward migration of the Unhorned along the Western rim of the Gold Desert | |
@@ -22,12 +22,13 @@ _Please note: our scribes continue to research this era_
 | -581 | With the support of many other nations the King of Taynuilt forms and heads the first Taynish Confederacy in light of enemy provocations to the east | |
 | -338 | The Incrillans are forced from their homeland and begin settling on Ekryp | | 
 | -332 | The second Taynish Confederacy forms to defend against the Indipian Regime of Tan La Fon V | |
-| -326 | The Indip Regime divides between north and south due to internal power struggles, the Taynish Confederacy successfully defeat the Indip essentially ending the war | |
-| -324 | With the collapse of the Indip power structure the Second Taynish Confederacy disbands according to the initial treaty. | |
+| -326 | The Indip Regime divides between north and south due to internal power struggles, the Taynish Confederacy successfully defeat the Indipians, essentially ending the war | |
+| -324 | With the collapse of the Indipian power structure, the Second Taynish Confederacy disbands according to the initial treaty. | |
 
 ## The Kaldrinic Dynasty
 |         |         |
 |--------:|:--------|
+_Note: Record keeping vastly improved after the establishment of the Kaldrinic Dynasty of Ashenstone_.
 | 0 | The Kaldrinic Empire Establishes Ashenstone as the new Imperial Seat |
 | 4 | Ekrypt Falls under Kaldrinic control |
 | 6 | Drimmharbor is founded |
