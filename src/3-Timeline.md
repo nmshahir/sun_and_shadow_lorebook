@@ -1,21 +1,23 @@
 # Timeline
 
-Major events of the world.
+_Major events of the world._
 
 ## The Ancient Postdark Era
-_Almost nothing is known about this era..._
-| Year  | Event | Picture|
-|------:|:------|:-------|
+_Almost nothing is known about this era..._ . 
+
+| Year  | Event | Picture |
+|------:|:------|:--------|
 | -4000 | The end of the War of Descension, Almak collides with surface of planet | ![almak collides](images/events/almak_collides.png)|
 | -3997 | End of the Long Dark | | 
 | -3965 | Settlement that becomes Taynuilt is founded on the new coast | |
 | -3700 | Fist of the Kyver (Dwarves) come out of hiding | |
 
 ## Classical Pre-Kaldrinic History
-_Please note: our scribes continue to research this era. Details may be added, updated, or changed._
-| Year  | Event | Picture |
-|------:|:------|:--------|
-| -912 | The High Orcish Necromancer-kings L'ratomi and Z'ratomi begin The Inquistion of the Horns, triggering the great Northward migration of the Unhorned along the Western rim of the Gold Desert | |
+_Please note: our scribes continue to research this era. Details may be added, updated, or changed._  
+
+| Year  | Event | Picture  |
+|------:|:------|:---------|
+| -982 | The High Orcish Necromancer-kings L'ratomi and Z'ratomi begin The Inquistion of the Horns, triggering the great Northward migration of the Unhorned along the Western rim of the Gold Desert | |
 | -904 | Trag Çom Anatala I declares the Ley-Indip-Ley or Indipian Empire, upon the death of her father, the Fu-Ley of Mulloch-Izyali. Anatala adopts the title Fu-Indip-Ley ("First Servant of Indip's land"), which becomes the title for all Indipian Emperors and Empresses until the collapse of the Empire.  | | 
 | -834 | The City of Invëye is founded on the southern coast of Indip. It quickly grows to be the largest in Indip and the known world, becoming known as Great Invëye.| | 
 | -700 | The Indipian Empire constructs The Watergates to defend against the Sixth Orcish Deadfleet | ![alt text](images/landscapes/watergates.png) |
@@ -26,9 +28,12 @@ _Please note: our scribes continue to research this era. Details may be added, u
 | -324 | With the collapse of the Indipian power structure, the Second Taynish Confederacy disbands according to the initial treaty. | |
 
 ## The Kaldrinic Dynasty
-|         |         |
+
+_Note: Record keeping vastly improved after the establishment of the Kaldrinic Dynasty of Ashenstone_.  
+
+
+| Year    | Event   |
 |--------:|:--------|
-_Note: Record keeping vastly improved after the establishment of the Kaldrinic Dynasty of Ashenstone_.
 | 0 | The Kaldrinic Empire Establishes Ashenstone as the new Imperial Seat |
 | 4 | Ekrypt Falls under Kaldrinic control |
 | 6 | Drimmharbor is founded |
