@@ -28,7 +28,7 @@ Within the borders of Indip is __The Palace of the Pointed Crown__, an ancient s
 
 ### 1. The Mulmarch (Mulloch-Izyal)
 
-![mulmarch](images/maps/mulhong.png)
+![mulmarch](images/maps/mulmarch.png)
 
 This region, originally known as Mulloch-Izyal, is the birthplace of the Old Indipian Empire and the ancestral home of the Chieftans and Fu-Leys of Mulloch-Izyal. Home to the Capital of Old Indip, Indïdip, known as Mullochi-Izyali before the founding of the Ley-Indip-Ley.
 
