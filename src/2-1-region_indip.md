@@ -43,13 +43,17 @@ Some small salt mines exist around lake Mulhong, near Indïdip and Izÿ. Decent 
 
 ### 2. Drimmharbor District
 
-![image](https://github.com/jonkislin/ashenstone_lorebook/assets/26395601/d60b97f5-d6ac-4ba7-af70-38ff5bc22e01)
+![image](./images/maps/drimmharbor_district.png)
 
-By far the most populous and economically important of modern Indip's sub-regions. The Drimmharbor District is also the site of the most ancient settlements in Indip, though its population remained small until the founding of Drimmharbor after Old Indip's takeover by Ashenstone. The Inbay, a small internal sea, contain
+By far the most populous and economically important of modern Indip's sub-regions. The Drimmharbor District is also the site of the most ancient settlements in Indip, though its population remained small until the founding of Drimmharbor after Old Indip's takeover by Ashenstone. The Inbay, a small internal sea, contains The Deepwater, namesake of Indip. While very small in area, it contains some of the deepst waters in the Empire, and fishing rights are leased exclusively to restaurants and hobby fishers in the fabulously wealthy and exclusive town of Inpoint.
 
-- __Drimmharbor__ - capital, site of the Royal Navy Yards, the Royal Navy Academy, and home to the headquarters of the famously flamboyant _Lighthousers Guild_, one of the rare organizations politically savvy enough to have a strong presence in both Imperial and non-Imperial provinces.  
+- __Drimmharbor__ - capital, site of the Royal Navy Yards, the Royal Navy Academy, the Imperial Land Ministry's Eastern Headquarters, and home to the headquarters of the famously flamboyant _Lighthousers Guild_, one of the rare organizations politically savvy enough to have a strong presence in both Imperial and non-Imperial provinces. 
 
-- __Drimmharbor Quays__ - Navy operated satellite city of Drimmharbor. Site of the vast imperial drydocks and manufactories. The area is under strict martial law at all times. Rigorous system of checkpoints prevents unauthorized entry despite its massive size. Notably absent of Orcs and half-orcs. In recent years, vast shipments of enormous logs have been reported, though officials maintain silence on the matter.  
+The largest city by land area and fourth largest city by population in the Kaldrinic Empire, after Ashenstone, Balnoorial, and Taynuilt City. Extremely cosmopolitan, with Humans, Elves, Half-elves, Half-orcs, and even some Dwarves and Gnomes taking residence. 
+
+Drimmharbor's City Government is complex, splitting power between a Civilian Legislature, a Maritime Merchant Council, and the High Command of the Imperial Navy. The three entities meet together on the first of every month in the politically and ceremonially important Drimm Conference, which enacts laws that apply to the entire District. The Imperial Navy High Command generally allows the highly active Maritime Merchant Council and Civilian Legislature to negotiate affairs for the city during these conferences, but occasionally wields its powers of Absolute Veto and Naval Decree, especially in times of war or civil unrest. Additionally, The Imperial Navy High Command, which reports directly to the Emperor in Ashenstone, alone has the power to cancel or reschedule a Drimm Conference.
+
+- __Drimmharbor Quays__ - Navy operated satellite city of Drimmharbor. Site of the vast imperial drydocks and manufactories. The city is curiously under strict martial law since 390 KD. Rigorous systems of checkpoints prevent unauthorized entry despite its massive size. Notably absent of half-orcs, though the Empire claims it does not engage in discrimination. In recent years, vast shipments of enormous logs have been reported by whistleblowers, though officials either deny the rumors or refuse to comment on the matter.  
 
 - __Drez'dip__ - "Across Deepwater" - Half-orcs were historically pushed out of the areas immediately surrounding Drimmharbor, their claimed holy promised land, and as such the largest Half-orc town remaining in Indip is __Drez'dip__, on the shallower water Northern coast of the Inbay. Expanded fishing rights granted in reforms of recent decades have slightly improved the fortunes of the population, but there is still much poverty and resentment, especially since these fishing rights do not apply to the historical deepwaters where the best fish may be caught, in the South Inbay Trench.  
 
@@ -58,6 +62,8 @@ By far the most populous and economically important of modern Indip's sub-region
 - __Cape Drimm__ - a small but popular destination for relaxation and hobby fishing. Fresh seafood is caught daily by seasonally licensed human and travelling half-orc fishermen. Despite existing road and land access, many now visit by boats embarking from Northeast Drimmharbor to avoid the activity and checkpoints around the Drimmharbor Quays. Private sea-side roads lead directly here from __Inpoint__.  
 
 - __Ashwatch Point__ - a small but elegant town across the Great Indip Sound from Drimmharbor. Site of the Ashwatch Lighthouse, pride of the Lighthouser's Guild. The Ashwatch Lighthouse notably houses a world-class observatory from which the Lighthousers boast they can as easily view the stars as they can the private lives of Ashenstone City's nobles through the windows in their towers across the Jewel Waters.
+
+- __Woodgate__ - a small town on the edge of the District in the modest but economically and culturally important Lero's Woods. Founded in 31 KD by Admiral Hiro Drimm's son, Lero Drimm, as a lumbering outpost. Now offers tourism services and its market supplies goods to hunters and foragers. The Lero Drimm Lumbering Museum is headquartered here.
 
 ### 3. Invëénland
 
