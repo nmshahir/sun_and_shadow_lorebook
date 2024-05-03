@@ -14,7 +14,7 @@ Being less than a day's boat ride from Ashenstone, __Drimmharbor__ is as cosmopo
 ## Districts of Indip
 
 ### Overview  
-Ashenstone's Imperial Land Ministry divides Indip into three coastal "districts" and the unorganized "Indip Expanse":
+Ashenstone's Imperial Land Ministry divides Indip into three coastal "districts", and the unorganized "Indip Expanse":
 
 1. __The Mulmarch__. Agricultural region north of Drimmharbor, extending up to the border of Mulhong. The original homeland of the Human nomads who eventually coalesced and formed the Old Indip Empire. _Indïdip_ ("Over-Indip"), the historic capital of the Old Indipian Empire is located here, on the south shore of Lake Mulloch. Briefly the population center of the region after the formation of the Old Indip Empire, this area depopulated quickly after the establishment of Drimmharbor. Now economically depressed, though home to some interesting architecture and a cultural center of traditional Indipian crafts. Considered a pass-through region by most Imperials.
 
@@ -24,7 +24,7 @@ Ashenstone's Imperial Land Ministry divides Indip into three coastal "districts"
 
 4. __The Indip Expanse__. The vast interior of Isndip, "expanding" to the Gold Desert. Civilian law does not apply here, mostly because there's no one to enforce it. Historically, both Old Indip and Ashenstone's touch here has been very light.
 
-Within the borders of Indip is __The Palace of the Pointed Crown__, an ancient semi-sovereign religious enclave surrounded by Indipian lands. It is included here for convenience, but it is not adminstratively considered part of Indip by the Land Ministry.
+Within the borders of the Indip and the Indip Expanse is __The Palace of the Pointed Crown__, a semi-sovereign religious enclave surrounded by Indipian lands. It is included here for convenience, but it is not adminstratively considered part of Indip by the Land Ministry.
 
 ### 1. The Mulmarch (Mulloch-Izyal)
 
@@ -61,15 +61,23 @@ By far the most populous and economically important of modern Indip's sub-region
 
 ### 3. Invëénland
 
-Invëénland, also called Invëye, was a critical region to Old Indip, despite its relative obscurity today. The oldest permanent settlements here are attributed to the Humans of Old Indip. Centered around the Bay of Invëye, Invëénland was both the economic and military center of the Middle Indipian Empire, and its regional capital, __Great Invëye__ so far outpaced the size, population, military presence, and economic output of the old capital of __Indïdip__ that it was often considered the capital despite not being declared as such until the splitting of Old Indip into North and South Indipian Empires. Despite having largely decayed by the time of the Kaldrinic Empire's rise, it is said that Ashenstone set its sites on Indip so early on during its conquests lest some other power claim the right to the glory of Old South Indip and its jewel, __Great Invëye__.
+__Invëénland__, historically called Invëye, was a critical region to Old Indip until its fall in 7 KD, despite its relative obscurity today. The oldest permanent settlements here are attributed to the Humans of Old Indip. Centered around the Bay of Invëye, Invëénland was both the economic and military center of the Middle Indipian Empire, and its regional capital, __Great Invëye__ so far outpaced the size, population, military presence, and economic output of the old capital of __Indïdip__ that it was often considered the capital despite not being declared as such until the splitting of Old Indip into North and South Indipian Empires. Despite having largely decayed by the time of the Kaldrinic Empire's rise, it is said that Ashenstone set its sites on Indip so early on during its conquests lest some other power claim the right to the glory of Old South Indip and its jewel, __Great Invëye__.
 
-As previously mentioned, __Great Invëye__ is no more, but its two historical ports of __Bayport__ and __Westport__, now themselves humble but active independent port-towns, offer glimpses of __Great Invëye__'s former splendor.
+As previously mentioned, __Great Invëye__ is no more, but its two historical ports of __Bayport__ and __Westport__, now themselves humble but active port-towns, offer glimpses of __Great Invëye__'s former splendor.
 
 ![Invëénland](images/maps/inveenland.png)
 
 It's hard to overstate the threat that Old Indip felt from the Orcs of the Rock Hills. If Half-orcs were holy to the humans of Old Indip, Orcs were the very opposite, considered accursed. To be fair to the Old Indipians, The Orcs of the Rock Hills waged centuries of apparently unprovoked war against both the semi-nomadic Half-orcs and the Humans who considered them their sacred ward. To this effect, Old Indip constructed one of the great wonders of the pre-Kaldrinic world: __The Watergates__, four leviathan floating fortresses imbued with long forgotten magics. Combined with the large __Southfort__ and the __Great Trenches__ (Eastrench and Westrench), the very geography of South Invëénland was fortified against threats from the Rock Hills and beyond, whether by land or by sea.
 
 When the Ley-Indip-Ley split into independent North and South portions, Invëye remained an important though diminished city until the darkening of The Watergates in -326 KD. Its slow collapse was complete when the last South Indipian Emperor, Trag Antal II, was defeated and beheaded by Kaldrinic forces during the razing of Great Invëye Palace in 7 KD. The city was burned and much of the population relocatd to Drimmharbor.
+
+__Flaa__, in the east of Invëénland, is a predominantly Elvish forest-town meaning "Friends" in an Elvish/Half-orcish sylvan pidgin. Home mostly to Cosmpolitan Elves (those Elves who generally live along Humans and Half-elves in the cities of the Empire) and a small number of Half-orcs, it has remained relatively stable despite centuries of shifting Indipian and Kaldrinic power structures. Some say it has long been protected by powerful magics, though the Elves demur on this subject. 
+
+While fairly remote, Flaa does sit both on the __Invëéndip River__ _and_ on the lightly used land-route between the Ports of Invëye and Drimmharbor. Accordingly, it sees a small but regular cadence of travellers.
+
+Flaa is known for its natural beauty, hospitality, woodland setting, and hot springs. Salmon and Trout are plentiful inm the river, and each spring Flaa hosts "The Feast of Friends," feeding guests and residents at no cost and exporting excess catch downriver to Westport for sale.
+
+The Empire collects taxes in Flaa and includes it in the Invëénland census, but otherwise leaves the Elves to manage the city autonomously. Half-orcs are included on the town council, and are treated much better here than in the Drimmharbor District, leading to a small population influx in the last century.
 
 ### The Indip Expanse
 
@@ -79,7 +87,9 @@ Even today, most citizens of the Ashenstone Empire know little about the vast in
 
 The Indip Expanse is very rarely visited by humans, unless the __Palace of the Pointed Crown__ is included. The Empire maintains a policy of non-settlement, though in practice this only legally applies to Humans. Elves, Half-elves, and Half-orcs are said to make up the majority of the population, but no official records are kept.
 
-_WIP_
+### The Palace of the Pointed Crown
+
+__WIP__
 
 ## History
 
