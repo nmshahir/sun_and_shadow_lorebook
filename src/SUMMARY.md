@@ -11,9 +11,10 @@
         - [Thorvir the Raven](./2-3-1-Thorvir_the_Raven.md)
         - [Lord Tyrson Corrack](./2-3-2-Lord_Corrack.md)
         - [Lady Louissa Corrack](./2-3-3-Lady_Corrack.md)
-2. [Campaign 2024](./3-0-campaign_2024.md)
-    - [Characters](./3-1-characters.md)
-    - [Synopsis to Date](./3-2-synopsis.md)
+3. [Timeline](./3-Timeline.md))
+4. [Campaign 2024](./99-0-campaign_2024.md)
+    - [Characters](./99-1-characters.md)
+    - [Synopsis to Date](./99-2-synopsis.md)
 
 _More to come!_
 
