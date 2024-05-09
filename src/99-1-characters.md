@@ -17,6 +17,7 @@
 | Subclass     | Eldritch Knight     |
 | Alignment    | Unknown             |
 | Homeland     | City of Stones      |
+| Age          | 175 years           |
 | Controller   | Charlotte           |
 
 
@@ -29,7 +30,8 @@
 | Class        | Mage                 |
 | Subclass     | School of Evocation  |
 | Alignment    | Unknown              |
-| Homeland     | Unknown              |
+| Homeland     | _Alk'Sira_           |
+| Age          | Unknown              |
 | Controller   | August               |
 
 ### Hazar
@@ -42,6 +44,7 @@
 | Subclass     | Assassin             |
 | Alignment    | Unknown              |
 | Homeland     | Ashenstone City      |
+| Age          | Unknown              |
 | Controller   | Mike                 |
 
 ### Lightsong the Haunted
@@ -53,7 +56,8 @@
 | Class        | Bard                |
 | Subclass     | College of Whispers |
 | Alignment    | Chaotic Good        |
-| Homeland     | Ashenstone City     |
+| Homeland     | Ashenstone City Outskirts |
+| Age          | Mid 20s?            |
 | Controller   | Jon                 |
 
 ### Torin Thunderridge
@@ -66,4 +70,5 @@
 | Subclass     | Totem Warrior       |
 | Alignment    | Unknown             |
 | Homeland     | City of Mines       |
+| Age          | 225 years           |
 | Controller   | Matt                |

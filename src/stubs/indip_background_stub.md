@@ -15,6 +15,7 @@ _Landscape_:
 | Region          | Central-East                      |
 | Climate         | Temperate (Western), Arid (Eastern), Unknown (interior) |
 | Nation          | Kaldrinic Empire                  |
+| Government      | Imperial Ministry Appointed Governor, Drimmharbor has a partially military government |
 | Capital         | Drimmharbor                       |
 | Main Culture    | Imperial, cosmopolitan            |
 | Minor Cultures  | Old Indipian, Central Half-orcish, unrecorded others |

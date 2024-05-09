@@ -1,13 +1,16 @@
-# Synopsis to Date
+# Synopsis: Chapter One - Crag
+
+The campaign begins! Late January 2024 (will take better records next chapter).  
+Major locations: [Crag](./2-2-city_crag.md).  
 
 ## Day 1  
 
-Five [characters](./campaign_2024_characters.md) meet in a pub in Crag.  
-They encounter a fiesty lordling, Ewyin. 
-He harrasses the kindly owner.  
-The character fight off the lordling and his goons with the help of the half-orc bouncer.  
-Lordling wanted his way with owner's daughter.  
-They do non-lethal damage to lordling and give him and his goons swirlies.  
+- Five [characters](./campaign_2024_characters.md) meet in a pub in Crag.  
+- They encounter a fiesty lordling, Ewyin. 
+- He harrasses the kindly owner.  
+- The character fight off the lordling and his goons with the help of the half-orc bouncer.  
+- Lordling wanted his way with owner's daughter.  
+- They do non-lethal damage to lordling and give him and his goons swirlies.  
 
 ## Day 2
 
@@ -21,13 +24,15 @@ Hazar tries to get employed by the warehouse manager, Drenna.
 He succeeds.
 
 ### Evening
+
 The group comes back the next day and they straight up murder the warehouse manager while they plunder four out of the five crates the merchant asked for.  
 They also murder her goons.  
-She drops sweet loot.   
+She drops sweet loot.
 Lightsong is upset because killing. Has a particular disdain for the Dwarves and the Elf.
 Hazar is also upset because he wanted to question them.  
 
 ### Night
+
 We continue the search, looking for the last crates.  
 We discover the large crate (not one of the five) in the basement.  
 We find the last of the five crates.  
@@ -60,7 +65,6 @@ The group splits up! Lightsong agrees to make peace with Flim Flam.
 
 Thorin and Hazar find a cave with a ladder up to the estate, though nobody takes it yet. It's not clear where in the estate the ladder leads.
 
-
 ### Midday - Infiltrating the Korak Estate
 
 Hazar disguises with Lightsong's kit and goes into the Korak estate via the front gate, bypassing the ladder, as Lord Jerald Thrin (someone Hazar just happened to know might have dealings with Koraks) and takes a Bardic Inspiration.
@@ -90,6 +94,7 @@ Torin Thunderridge carries the group!
 We win and harvest meat, teeth, and chitin from a tentacle the Kraken baby (it was only a baby) left behind.  
 
 ### Late Afternoon - the Korak Estate, again!
+
 Thorin starts climbing again, hears some noise above. 
 Thorin opens the trapdoor/hatch, spots storage crates, pantries, barrels, etc. in a wooden-ceilininged room and comes up, alerting the others that the coast is clear. All come up.
 
@@ -112,11 +117,13 @@ We kill the guard captain.
 We get Lord Tiersen Korak and Lady Luisa Korak to surrender before killing them. 
 
 #### The escape in the storm at dark
+
 Take cloak and cover the seeing mirror. We gag and search.
 We knock them out.
 We take the mirror and crate, we walk through the pastures, get into the city, back to Thorvir's.
 
 ### Late Night - Back to Thorvir's
+
 We get the crate in. Thorvir asks us what went down. We tell him. 
 We didn't get the pass code, we didn't deliver the letter. Oops. 
 It was a threatening letter.
@@ -124,7 +131,7 @@ It was a threatening letter.
 __LONG REST__  
 END OF DAY 3.
 
-## Day 4 
+## Day 4
 
 ### Day
 
@@ -134,42 +141,69 @@ END OF DAY 3.
 4. Lightsong wrote a letter to lady Louissa entreating her to Parlay.
 5. Lady Louissa Corrack came over but was really mistrusting.
 6. We got the big crate open with the help of Lady Corrack.
-7. Lady Louissa Corrack's sister (Shaheela) was in the crate! Also an ornate chest.
+7. Lady Louissa Corrack's sister (Shaheila) was in the crate! Also an ornate chest.
 8. Tierson and Ewyin knocked down the door and that's where we find ourselves.
 
 ### Twilight/Evening
 
 - The Corracks attack! We defuse it. The battle disengages.
-- The infamous Dread Queen Shaheela, believed to be executed and burned at the stake at the royal palace of Lynnla in Balnourial, one year ago, by Lord Chakri.
-    - Second wife and mother of the King Helman's Third Son.
-    - Many claimed she was a necromancer. King Helman was assumed dead after a tournament but mysteriously came back and Shaheela took more control.
-    - The first two children died mysteriously, Renni mayhaps will take the throne? Conspiracy???
-    - Shahella was notorious figure in Lynnla.
-    - Her misrule is credited for the invasion of the Empire.
+- The infamous Dread Queen Shaheila, believed to be executed and burned at the stake at the royal palace of Lynnla in Balnourial, one year ago, by Lord Chakri.
+  - Second wife and mother of the King Helman's Third Son.
+  - Many claimed she was a necromancer. King Helman was assumed dead after a tournament but mysteriously came back and Shaheila took more control.
+  - The first two children died mysteriously, Renni mayhaps will take the throne? Conspiracy???
+  - Shahella was notorious figure in Lynnla.
+  - Her misrule is credited for the invasion of the Empire.
 - Chakri was listening to us the whole time!!! The bastard!
 - Bomb's gonna go off. Fuckin Chakri. We got barricaded. Tiersen's guards try to break the barricade.
-- Shaheela blinds Hazar, Flim Flam, and Boudicca...
-- Lightsong persuades Shaheela and Louissa to focus on the defusing the bomb!
+- Shaheila blinds Hazar, Flim Flam, and Boudicca...
+- Lightsong persuades Shaheila and Louissa to focus on the defusing the bomb!
 - Hazar asks for the blindness to be removed.
-- Hazar, Shaheela, Louissa, Flim Flam check the box to see if they can defuse it.
+- Hazar, Shaheila, Louissa, Flim Flam check the box to see if they can defuse it.
 - Torin and Boudicca throw the bomb out the window.
 - The bomb lands among Chakri's goons.
 - We all huddle in the corner; Hazar scoops up treasure and makes failed passes at the Dread Queen.
 - The bomb goes off and Lightsong, Hazar, and Flim Flam go into a dark purgatory; apparently the building fell on us.
 
-### After the bomb, night-time
+## Day 5
 
-- We come back to consciousness, in the mires outside of Crag.
+New NPC party member: _Dread Queen Shaheila of Lynnla_.  
+New NPC party member: _Roach the Horse_.
+
+### After the bomb, in the morning
+
+- We come back to consciousness, in the mires outside of Crag, we're in the woods.
 - Torin and Boudicca feel alright, but Flim Flam, Hazar, and Lightsong feel like they've come back from the dead.
 - We are not in the city.
-- The Darkvisioners see Shaheela on the log.
+- The Darkvision having characters see Shaheila on the log.
 - Crag plaza was levelled, Thorvir is dead, by a beam in his own house.
-- Chakri we learn is also interim governor of Lynnla. Shaheela spits on the ground.
-- We discuss what to do next.
+- Chakri we learn is also interim governor of Lynnla. Shaheila spits on the ground.
+- Shaheila dragged us from the graveyard pits and brought us here to the Crag mires.
+- We discuss what to do next - we decide on fleeing Crag and going to Taynuilt.
 
+### Making out from camp, through the sub-boreal swamp
 
+- We stumble upon Hazar's old stolen horse, surrounded by Slime Monsters!
+  - Lightsong, being the erudite scholar that he is, informs the party that the monsters are weak to fire.
+  - The horse is surrounded by the slime creatures who wish to devour it.
+  - After a long fight, we defeat the monsters.
+    - The battle starts a forest fire (we use lots of fire attacks and a flaming spear)
+  - Boudicca and Hazar have to clean off the slime, which is damaging them over time.
+  - A Gator-maid (think Mermaid but instead of half fish, half alligator)
+  - We get out of there! Torin gets the horse.
 
+### Midday - The small fishng village Northeast of Crag
 
+- Go to fishing village, McConnor gets us into town and we meet Timothy.
+- Timothy takes the crew to Crag.  
 
+### Evening - Boarding the ship for Laghwair, Taynuilt
 
+- Timothy points us to a boat that can take us to Læghwair, Taynuilt.
+- Toto the Dwarf Lady takes us up on the boat, with her dog Dorothy.
+  - Pop Cornwall III, halfling, comes out and offers passage.
+  - We pay 150 gold apiece.
+  - We long rest.
 
+__END OF DAY 5__  
+
+___END OF CHAPTER 1___

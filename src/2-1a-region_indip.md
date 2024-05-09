@@ -99,7 +99,8 @@ The Indip Expanse is very rarely visited by humans, unless the __Palace of the P
 
 ### The Palace of the Pointed Crown
 
-__WIP__
+This is the main seat of power for the Imperial Religion (Church of the Pointed Crown), sort of like the Vatican. It is not officially independent from Indip, but is generally left to its own devices by the provincial governor. It is sort of like a small city onto itself, though most functions are limited to what is needed to support the religious activities, including the many monastic chapters, training areas, pilgrimage sites, and religious scholars. Prior to the Kaldrinic Empire, it was a major religious and pilgramage site for the Ancient Indipians, and was even used as the Capital for a few Indip Kings and Emperors. The city is built within the ancient ruins left behind by the Old Ones (I forget what I called them...), so it very monumental in its construction with centuries worth of human construction built around the ancient spires and pyramids. Very different from standard human cities, and more like a dwarven city built above ground. The entire place is perched atop a small mountain range with wide, broad plateaus divided by deep rocky ravines (think Machu Picchu on a huge scale)
+
 
 ## History
 
