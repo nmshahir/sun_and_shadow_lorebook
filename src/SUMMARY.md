@@ -16,7 +16,7 @@
 4. [Campaign 2024](./99-0-campaign_2024.md)
     - [Characters](./99-1-characters.md)
     - [Chapter One - Crag](./99-2-ch1-synopsis.md)
-    - [First Interlude - From Crag to Taynuilt](.99-2-int_1-synopsis.md)
+    - [First Interlude - From Crag to Taynuilt](./99-2-ch1ch2-interlude-synopsis.md)
     - [Chapter Two - Taynuilt](./99-2-ch2-synopsis.md)
 
 _More to come!_
