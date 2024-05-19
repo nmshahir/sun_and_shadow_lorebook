@@ -28,6 +28,7 @@ _Please note: our scribes continue to research this era. Details may be added, u
 | -324 | With the collapse of the Indipian power structure, the Second Taynish Confederacy disbands according to the initial treaty. | |
 | -205 | Great unchecked fires burn-out the Hall of the Chieftans and much of Indïdip. The North Indip Empire falls unceremoniously. | 
 | -204 | Founding of Izÿ on Lake Mulhong by refugees from Indïdip. | |
+|   -4 | The dual catastrophy of the eruption of Mount Iljo and the breaking of the Gods' Dam lead to the migration of Emperor Jontosin and his people north by ship to find new lands. The Denisians, also impacted by the catastrophy, begin to migrate north too. | |
 
 ## The Kaldrinic Dynasty
 
@@ -36,7 +37,7 @@ _Note: Record keeping vastly improved after the establishment of the Kaldrinic D
 
 | Year    | Event   |
 |--------:|:--------|
-| 0 | The Kaldrinic Empire Establishes Ashenstone as the new Imperial Seat |
+| 0 | Emperor Jontosin dies of old age. His funeral is held atop the island of Ashenstone. His daughter Kaldrina is crowned the new empress. Based on a vision she recieves upon coronation, Kaldrina declares their years of wandering over and establishes The Kaldrinic Empire with Ashenstone as the new Imperial Seat. Work begins on the construction of Jonto Keep. |
 | 4 | Ekryp Falls under Kaldrinic control |
 | 6 | Drimmharbor is founded; the area's native half-orcs are expelled to Drez'Dip and are banned from fishing in the Inbay in favor of Human fishermen |
 | 7 | South Indip Empire falls to the Kaldrinic Empire. Great Invëye is sacked and destroyed. The Ley-Indip-Ley is no more. |

@@ -1,4 +1,4 @@
-# Lady Louissa Corrack
+# Lady Louissa Corrack (or "The Dread Queen")
 
 ## General Description
 | | |
