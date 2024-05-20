@@ -1,5 +1,9 @@
 # Interlude One - From Crag to Taynuilt
 
+On the ship Limerick, captained by Pop Cornwallis III.  
+Baby G the Half-orc chef.  
+Boatswain - Toto.  
+
 ## Day One
 - Hazar becomes very ill. Shaheila watches over him. 
 - Flim-flam and Torin begin to spar (friendly!).
@@ -19,9 +23,30 @@
 - Nothing else happened
 
 ## Day Four
+"These aren't the droids you're looking for"
+
 - Halfway through Day Four, Grenna sees something out on the horizon.
 - Another ship comes due towards us. 
 - The Empire. They come in peace... or so they say. 
 - Inspecting ship. Lightsong rolls a whole bunch of lucky deception and persusasion rolls.
 - Inspection ship says they want Therisso Green. Lightsong says he's Lord Major Greenwater of Drimmharbor. He stole the Xun Tome of Hiro Drimm, or so Lightsong says, and there's nothing to see here. Jedi mind trick used.
 - The inspection ship sails away. Lightsong is so lucky.
+
+## Day Five  
+- The horse is sick. We ask Shaheila for help. Baby G wants to cook him up.
+- Hazar and Boudicca ask Captain Pop Cornwallis III for time update.
+- We then decide to question Grin, as the imperial inspectors were 
+- Grin says there's a special crate down below that might be a big more valuable than what was declared.
+- Grenna told us they're drug smugglers and gives us Blue Dust (a.k.a Sparkle, Sparkle Powder, Vision).
+
+## Day Six
+- Mega rainstorm, Flim Flam was unhinged (dude loves the thunderstorms). Nothing else happened.
+
+## Day Seven
+- Land-ho!
+- There's someone who needs help, being attacked by something? They are calling for help in the water.
+- Maybe we'll use the Dinghy that Therisso came through in.
+- We find the fishers being circled by Plesiosaurus/Liopleurodon type creatures. As we approach, one of them (the one with a larger neck) snaps at one of the fishers and pulls him into the water, ripping him to shreds instantly, killing him. (obviously)
+    - We engage in combat!!!
+    - We win
+- Leo (the fisher) is thankful, but bemoans his dead compatriot, Sted.

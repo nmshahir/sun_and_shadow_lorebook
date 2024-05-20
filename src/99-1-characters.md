@@ -21,7 +21,7 @@
 | Controller   | Charlotte           |
 
 
-### Flim-Flam
+### Flim Flam
 
 | | |
 |-------------:|:--------------------|
@@ -34,7 +34,7 @@
 | Age          | 63                   |
 | Controller   | August               |
 
-### Hazar
+### Hazar Cora
 
 | | |
 |-------------:|:--------------------|
