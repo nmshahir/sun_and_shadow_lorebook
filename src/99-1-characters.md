@@ -20,8 +20,9 @@
 | Age          | 175 years           |
 | Controller   | Charlotte           |
 
+#### Character Backlore
 
-### Flim Flam
+### Flim Flam of Alk'Sira
 
 | | |
 |-------------:|:--------------------|
@@ -33,6 +34,8 @@
 | Homeland     | _Alk'Sira_           |
 | Age          | 63                   |
 | Controller   | August               |
+
+#### Character Backlore
 
 ### Hazar Cora
 
@@ -47,6 +50,8 @@
 | Age          | 28                   |
 | Controller   | Mike                 |
 
+#### Character Backlore
+
 ### Lightsong the Haunted
 
 | | |
@@ -60,6 +65,8 @@
 | Age          | Mid to late 20s?    |
 | Controller   | Jon                 |
 
+#### Character Backlore
+
 ### Torin Thunderridge
 
 | | |
@@ -72,3 +79,6 @@
 | Homeland     | City of Stones      |
 | Age          | 205 years           |
 | Controller   | Matt                |
+
+#### Character Backlore
+
