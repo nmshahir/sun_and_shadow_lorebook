@@ -16,12 +16,13 @@
 | Class        | Fighter             |
 | Subclass     | Eldritch Knight     |
 | Alignment    | Unknown             |
-| Homeland     | City of Stones      |
+| Homeland     | City of Mines       |
 | Age          | 175 years           |
 | Controller   | Charlotte           |
 
+#### Character Backlore
 
-### Flim-Flam
+### Flim Flam of Alk'Sira
 
 | | |
 |-------------:|:--------------------|
@@ -31,10 +32,12 @@
 | Subclass     | School of Evocation  |
 | Alignment    | Unknown              |
 | Homeland     | _Alk'Sira_           |
-| Age          | Unknown              |
+| Age          | 63                   |
 | Controller   | August               |
 
-### Hazar
+#### Character Backlore
+
+### Hazar Cora
 
 | | |
 |-------------:|:--------------------|
@@ -44,8 +47,10 @@
 | Subclass     | Assassin             |
 | Alignment    | Unknown              |
 | Homeland     | Ashenstone City      |
-| Age          | Unknown              |
+| Age          | 28                   |
 | Controller   | Mike                 |
+
+#### Character Backlore
 
 ### Lightsong the Haunted
 
@@ -57,8 +62,10 @@
 | Subclass     | College of Whispers |
 | Alignment    | Chaotic Good        |
 | Homeland     | Ashenstone City Outskirts |
-| Age          | Mid 20s?            |
+| Age          | Mid to late 20s?    |
 | Controller   | Jon                 |
+
+#### Character Backlore
 
 ### Torin Thunderridge
 
@@ -69,6 +76,9 @@
 | Class        | Barbarian           |
 | Subclass     | Totem Warrior       |
 | Alignment    | Unknown             |
-| Homeland     | City of Mines       |
-| Age          | 225 years           |
+| Homeland     | City of Stones      |
+| Age          | 205 years           |
 | Controller   | Matt                |
+
+#### Character Backlore
+
