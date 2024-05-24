@@ -24,5 +24,19 @@
 
 Laigfhuar
 
-## Notable Residents
+## City Council
+
+Senior Councilor Jerrick Thorkarin
+Senior Councilor Dallia Switwick
+Senior Councilor Riggin Lorflourick
+Junior Councilor Jin Tarni
+Junior Councilor Helio Dolsin-Tyne
+Junior Councilor Redirill Gyll
+
+## Other Notable Residents
+
+Tanly the Rat
+Watch Commander Sir Garrick Switwick
+Guildmaster Astrid the Dark
+Helrid Sharpen
 
