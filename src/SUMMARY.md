@@ -1,7 +1,11 @@
-# Table of Contents
+# Table of Contents - Ashenstone Lorebook
 
-[Introduction](ashenstone_lorebook.md)  
-[Table of Contents](SUMMARY.md)
+Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homebrew world of the Ashenstone Empire.
+
+> Click the `>` button to continue, or select a chapter from the below list for quick reference.
+
+[Table of Contents](SUMMARY.md) _(This page)_    
+[Contribution Instructions](contribution_instructions.md)  
 
 1. [Cultures of the World](./1-0-world_cultures.md)
 2. [World Atlas](./2-0-world_atlas.md)
@@ -22,7 +26,5 @@
     - [First Interlude - From Crag to Taynuilt](./99-2-ch1ch2-interlude-synopsis.md)
     - [Chapter Two - Taynuilt](./99-2-ch2-synopsis.md)
 
-_More to come!_
-
 > _Copyright Adam Bailey and Jon Kislin, 2024._ All rights reserved.   
-> You may not adapt, share, distribute, monetize, or modify any content herein without express written permission of the authors._   
+> _You may not adapt, share, distribute, monetize, or modify any content herein without express written permission of the authors._

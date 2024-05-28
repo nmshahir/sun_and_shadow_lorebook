@@ -50,3 +50,7 @@ Boatswain - Toto.
     - We engage in combat!!!
     - We win
 - Leo (the fisher) is thankful, but bemoans his dead compatriot, Sted.
+- Lightsong asks to send letters to Grenna and buy a drink, she blushes and obliges. 
+- The crew pulls into Laighfuair! 
+
+___END OF INTERLUDE___
