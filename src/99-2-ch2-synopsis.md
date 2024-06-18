@@ -44,12 +44,13 @@
     - Meeting at the Immaculate Gryffin in Lostweave.
 - Down the street and to the left - The Lizard Bachelor.
 - Gnome Pickpocket!
-- Torin and Hazar catch.
-    - Copper Ring
-    - Brass Ring
-    - Silvery Earring
-    - 2 Silver, a Copper
-    - Coinpurse.
-- Drugs. Cherry. Asks us to sit down. Takes the note from Captain Pop Cornwallis III.
+- Torin and Hazar catch the Gnome. We get back from him:
+    - A Copper Ring
+    - A Brass Ring
+    - A set of Silvery Earrings
+    - 2 Silver pieces, a Copper Piece.
+    - Torin's entire coinpurse.
+- We go into the The Lizard Bachelor. We ask for Cherry at the bar, which is not received kindly. 
+- All but Boudicca are led into the back room. Cherry has lots of gold jewelry. She asks us to sit down as she takes the note from Captain Pop Cornwallis III.
 
 
