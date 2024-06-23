@@ -53,4 +53,35 @@
 - We go into the The Lizard Bachelor. We ask for Cherry at the bar, which is not received kindly. 
 - All but Boudicca are led into the back room. Cherry has lots of gold jewelry. She asks us to sit down as she takes the note from Captain Pop Cornwallis III.
 
+-- Session One ends --
+
+#### In Cherry's Lair
+
+- We convince Cherry to get us 18 gold a piece.
+- We get Boudicca in from the bar to collect her gold, because Hazar rolled a 2 on persuasion.
+- Cherry has a task for us. An associate, Hawk Vorplen. We gotta shake him up. He's skimming profits. 
+- Cherry's office building is The Demon Lender. 
+- The Elm Snake in Palace-Stead - that's his favorite bar. If we don't find him at the office.
+    - House in Wall Brook.
+
+#### Back in the Bar
+
+- We met Herman and T.F. (Nick and Rajan one-off characters)
+- We invite them to journey with us this one time.
+
+#### Walking to Lostweave, the Weapon Shop
+- We were in Estwick, at the wall... we need to find a gate.
+- We come across guards and a portcullis to the upper city.
+- We notice rogues in the new city.
+- T.F.'s insight tells us we were smart not to corner them in an alleyway.
+- We enter the shop.
+- Flim Flam charms the Shopkeep (he's Genie the Wuldan btw, which Lightsong and Torin speak).
+- Lightsong gets the Bow of the Wanderer (shortbow +1, I can shoot arrows in the air and they will land in the direction I need to go)
+- Axe of Cleaving for Torin.
+- Cunneke would know about the Blade of Dusk. 
+
+#### Checking out Hawk Vorplen
+
+- My Shortbow of the Wanderer suggests we go to the Elm Snake in Palace-Stead.
+
 
