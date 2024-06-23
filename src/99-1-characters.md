@@ -82,3 +82,33 @@
 
 #### Character Backlore
 
+## One-off Characters
+
+### T.F. the Monk
+
+| | |
+|-------------:|:--------------------|
+| Picture      | <img src= width="275"/> |
+| Race         | Half-elf |
+| Class        | Monk                |
+| Subclass     | Path of Elements |
+| Alignment    | Neutral Good        |
+| Homeland     | Unspecified Mountain Range |
+| Age          | 200 or so. Aged but formiddable   |
+| Controller   | Rajan               |
+
+### Herman Miller
+
+| | |
+|-------------:|:--------------------|
+| Picture      | <img src="" width="275"/> |
+| Race         | Human |
+| Class        | Fighter                |
+| Subclass     |  |
+| Alignment    | Neutral Good       |
+| Homeland     | Taynuilt |
+| Age          | 30   |
+| Controller   | Nick              |
+
+
+
